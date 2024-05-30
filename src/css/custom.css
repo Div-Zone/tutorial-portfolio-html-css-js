@@ -1,0 +1,79 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* You can override the default Infima variables here. */
+:root {
+  --ifm-color-primary: #6d55a0;
+  --ifm-color-primary-dark: #6d55a0;
+  --ifm-color-primary-darker: #604b8f;
+  --ifm-color-primary-darkest: #604b8f;
+  --ifm-color-primary-light: #7b61b5;
+  --ifm-color-primary-lighter: #7b61b5;
+  --ifm-color-primary-lightest: #7b61b5;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+}
+
+/* For readability concerns, you should choose a lighter palette in dark mode. */
+[data-theme='dark'] {
+  --ifm-color-primary: #e7dcff;
+  --ifm-color-primary-dark: #7b61b5;
+  --ifm-color-primary-darker: #7b61b5;
+  --ifm-color-primary-darkest: #6d55a0;
+  --ifm-color-primary-light: #7b61b5;
+  --ifm-color-primary-lighter: #7b61b5;
+  --ifm-color-primary-lightest: #7b61b5;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
+
+.footer__link-item,
+.navbar__link {
+  display: flex;
+  align-items: center;
+}
+
+.footer--dark {
+  background-color: #312334;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  @apply font-bold;
+}
+
+h1 {
+  @apply text-2xl md:text-3xl lg:text-4xl;
+}
+
+h2 {
+  @apply text-xl md:text-2xl lg:text-3xl;
+}
+
+h3 {
+  @apply text-lg md:text-xl lg:text-2xl;
+}
+
+h4 {
+  @apply text-base md:text-lg lg:text-xl;
+}
+
+h5,
+h6 {
+  @apply text-sm md:text-base lg:text-lg;
+}
+
+article {
+  img {
+    @apply mx-auto;
+  }
+}

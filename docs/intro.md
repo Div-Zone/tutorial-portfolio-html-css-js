@@ -1,0 +1,44 @@
+---
+sidebar_position: 1
+---
+
+# Introducción a Docs
+
+Bienvenido a nuestra serie de tutoriales sobre desarrollo web. Este recurso está diseñado para guiarte a través de los fundamentos y avanzados conceptos del desarrollo web, desde la creación de tu primera página web hasta el desarrollo de aplicaciones web completas y funcionales. A lo largo de estos tutoriales, aprenderás a utilizar HTML, CSS y JavaScript, y explorarás diversas tecnologías y herramientas que son esenciales para cualquier desarrollador web.
+
+## Estructura de los Tutoriales
+
+Nuestros tutoriales están organizados en secciones progresivas para facilitar el aprendizaje gradual y estructurado.
+
+## Cómo Utilizar estos Tutoriales
+
+Para sacar el máximo provecho de estos tutoriales, te recomendamos seguir estos consejos:
+
+- **Estudia en Orden**:
+
+  - Los tutoriales están diseñados para ser seguidos en el orden presentado. Cada sección se basa en los conocimientos adquiridos en las secciones anteriores.
+
+- **Practica Constantemente**:
+
+  - El desarrollo web es una habilidad práctica. Asegúrate de trabajar en los ejemplos y proyectos proporcionados para reforzar tu aprendizaje.
+
+- **Experimenta y Explora**:
+
+  - No te limites a los ejemplos dados. Experimenta con tu propio código, realiza cambios y observa cómo afectan a tus páginas web.
+
+- **Utiliza Recursos Adicionales**:
+
+  - Además de estos tutoriales, consulta documentación oficial, foros de desarrolladores y otros recursos en línea para ampliar tu conocimiento.
+
+- **Pregunta y Colabora**:
+  - Si encuentras algún problema o tienes dudas, no dudes en buscar ayuda. Participa en comunidades en línea y colabora con otros aprendices. Te invitamos a formar parte de nuestra comunidad en [Discord](https://discord.com/invite/pNST4gkgby).
+
+## Requisitos Previos
+
+Antes de comenzar, asegúrate de cumplir con los siguientes requisitos:
+
+- **Edad Mínima**: Debes tener al menos 15 años para participar en este curso.
+- **Comprensión de Conceptos Básicos de Internet**: Familiaridad con el uso de navegadores web y sistemas operativos comunes.
+- **Acceso a una Computadora**: Necesitarás una computadora con conexión a Internet y un editor de texto para seguir los tutoriales.
+
+Estamos emocionados de acompañarte en tu viaje de aprendizaje en el desarrollo web. ¡Empecemos!
