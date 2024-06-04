@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Introducción al desarrollo web y su importancia.
+# Introducción al desarrollo web y su importancia
 
 El desarrollo web es una disciplina fascinante y en constante evolución que ha transformado la manera en que interactuamos con el mundo digital. Desde la creación de simples páginas estáticas hasta aplicaciones web complejas, el desarrollo web abarca una amplia gama de técnicas y tecnologías que permiten a los desarrolladores crear experiencias dinámicas e interactivas para los usuarios.
 
@@ -10,12 +10,12 @@ El desarrollo web es una disciplina fascinante y en constante evolución que ha 
 
 El desarrollo web se refiere a la creación y mantenimiento de sitios web. Incluye aspectos como el diseño web, la creación de contenido web, la programación del lado del cliente/servidor y la configuración de la seguridad de la red. El desarrollo web se puede dividir en dos categorías principales: **frontend** y **backend**.
 
-![Arquitectura Cliente - Servidor](./img/server-client.jpg 'Arquitectura Cliente - Servidor')
+![Arquitectura Cliente - Servidor](./img/server-client.jpg "Arquitectura Cliente - Servidor")
 
 - **Frontend**: Se refiere a todo lo que los usuarios ven y con lo que interactúan en un navegador web. Esto incluye HTML, CSS y JavaScript.
 - **Backend**: Se refiere a lo que sucede en el servidor, donde se almacenan y gestionan los datos. Esto incluye lenguajes de programación y tecnologías como PHP, Ruby, Python, Java y bases de datos como MySQL y MongoDB.
 
-![Desarrollo web](./img/front-end-back-end.jpg 'Desarrollo web')
+![Desarrollo web](./img/front-end-back-end.jpg "Desarrollo web")
 
 ## Importancia del Desarrollo Web
 
@@ -52,7 +52,7 @@ Para comenzar con el desarrollo web, es importante familiarizarse con las tecnol
 - **HTML (HyperText Markup Language)**: El lenguaje estándar para crear páginas web.
 
 ```html title="index.html"
-<!doctype html>
+<!DOCTYPE html>
 <html lang="es">
   <head>
     <meta charset="UTF-8" />
@@ -84,16 +84,16 @@ body {
 
 ```javascript title="script.js"
 function cambiarTexto() {
-  document.getElementById('demo').innerHTML = '¡El texto ha cambiado!';
+  document.getElementById("demo").innerHTML = "¡El texto ha cambiado!";
 }
 ```
 
 En los próximos capítulos, exploraremos estos conceptos en detalle, comenzando con la estructura básica de una página web utilizando HTML. También aprenderás cómo estilizar tus páginas con CSS y cómo añadir interactividad con JavaScript.
 
-![Tecnologías de desarrollo web](./img/web-technologies.jpg 'Tecnologías de Desarrollo Web')
+![Tecnologías de desarrollo web](./img/web-technologies.jpg "Tecnologías de Desarrollo Web")
 
 Estamos emocionados de acompañarte en este viaje de aprendizaje y esperamos que disfrutes cada paso del proceso. **¡Vamos a empezar!**
 
-![Programadores](./img/developers.gif 'Programadores')
+![Programadores](./img/developers.gif "Programadores")
 
 ---
