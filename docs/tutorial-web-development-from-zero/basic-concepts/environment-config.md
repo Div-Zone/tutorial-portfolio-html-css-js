@@ -38,6 +38,98 @@ Un buen editor de texto es esencial para escribir y gestionar tu código de mane
 2. Selecciona la versión adecuada para tu sistema operativo (Windows, macOS o Linux).
 3. Descarga el archivo y sigue las instrucciones de instalación.
 
+### Extensiones de VS Code fundamentales
+
+#### Auto Close Tag
+
+**Id**: formulahendry.auto-close-tag
+
+**Descripción**: Agregue automáticamente una etiqueta de cierre HTML/XML.
+
+**Editor**: Jun Han
+
+**Link de VS Marketplace**: [Link de Marketplace](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
+
+#### Auto Rename Tag
+
+**Id**: formulahendry.auto-rename-tag
+
+**Descripción**: Cambiar automáticamente el nombre de la etiqueta HTML/XML emparejada.
+
+**Editor**: Jun Han
+
+**Link de VS Marketplace**: [Link de Marketplace](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
+
+#### Autoprefixer
+
+**Id**: mrmlnc.vscode-autoprefixer
+
+**Descripción**: Analice CSS y agregue prefijos de proveedores automáticamente.
+
+**Editor**: mrmlnc
+
+**Link de VS Marketplace**: [Link de Marketplace](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-autoprefixer)
+
+#### HTML CSS Support
+
+**Id**: ecmel.vscode-html-css
+
+**Descripción**: CSS Intellisense para HTML
+
+**Editor**: ecmel
+
+**Link de VS Marketplace**: [Link de Marketplace](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css)
+
+#### html tag wrapper
+
+**Id**: hwencc.html-tag-wrapper
+
+**Descripción**: Envuelva la etiqueta html seleccionada presionando ctrl+i, también puede cambiar el nombre de la etiqueta contenedora simplemente.
+
+**Editor**: hwencc
+
+**Link de VS Marketplace**: [Link de Marketplace](https://marketplace.visualstudio.com/items?itemName=hwencc.html-tag-wrapper)
+
+#### JavaScript (ES6) code snippets
+
+**Id**: xabikos.JavaScriptSnippets
+
+**Descripción**: Fragmentos de código para JavaScript en la sintaxis de ES6.
+
+**Editor**: charalampos karypidis
+
+**Link de VS Marketplace**: [Link de Marketplace](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)
+
+#### Live Server
+
+**Id**: ritwickdey.LiveServer
+
+**Descripción**: Inicie un servidor local de desarrollo con función de recarga en vivo para páginas estáticas y dinámicas.
+
+**Editor**: Ritwick Dey
+
+**Link de VS Marketplace**: [Link de Marketplace](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+
+#### Material Icon Theme
+
+**Id**: PKief.material-icon-theme
+
+**Descripción**: Iconos de Material Design para Visual Studio Code.
+
+**Editor**: Philipp Kief
+
+**Link de VS Marketplace**: [Link de Marketplace](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+
+#### npm Intellisense
+
+**Id**: christian-kohler.npm-intellisense
+
+**Descripción**: Complemento de Visual Studio Code que completa automáticamente los módulos npm en declaraciones de importación.
+
+**Editor**: Christian Kohler
+
+**Link de VS Marketplace**: [Link de Marketplace](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)
+
 ## Control de Versiones
 
 Git es una herramienta de control de versiones que te permitirá gestionar el historial de tu código y colaborar con otros desarrolladores.
