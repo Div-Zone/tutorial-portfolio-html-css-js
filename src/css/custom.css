@@ -98,3 +98,10 @@ input {
   padding-left: 20px;
   margin-bottom: 16px;
 }
+
+.docItemCol_node_modules-\@docusaurus-theme-classic-lib-theme-DocItem-Layout-styles-module
+  ul {
+  list-style: disc;
+  padding-left: 20px;
+  margin-bottom: 16px;
+}

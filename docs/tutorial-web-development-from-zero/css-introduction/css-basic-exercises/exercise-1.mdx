@@ -1,0 +1,57 @@
+---
+sidebar_position: 1
+---
+
+# Ejercicio 1
+
+- Cambia el color del texto de todos los párrafos a azul.
+
+- Cambia el tamaño de la fuente de todos los encabezados a 36 píxeles.
+
+- Agrega un color de fondo amarillo a todos los `div`.
+
+- Agrega un borde sólido de 2 píxeles de ancho y color rojo a todos los elementos con la clase `.caja`.
+
+- Cambia el estilo de los elementos de lista para que tengan un círculo en lugar de un punto.
+
+```html title="HTML"
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Ejercicio 1</title>
+    <style>
+      /* Escribe tu CSS aquí */
+      p {
+        color: blue;
+      }
+      h1,
+      h2 {
+        font-size: 36px;
+      }
+      div {
+        background-color: yellow;
+      }
+      .caja {
+        border: 2px solid red;
+      }
+      li {
+        list-style-type: circle;
+      }
+    </style>
+  </head>
+  <body>
+    <p>Este es un párrafo.</p>
+    <p>Este es otro párrafo.</p>
+    <h1>Encabezado 1</h1>
+    <h2>Encabezado 2</h2>
+    <div>Este es un div.</div>
+    <div class="caja">Este es un div con borde.</div>
+    <ul>
+      <li>Elemento 1</li>
+      <li>Elemento 2</li>
+      <li>Elemento 3</li>
+    </ul>
+  </body>
+</html>
+```
