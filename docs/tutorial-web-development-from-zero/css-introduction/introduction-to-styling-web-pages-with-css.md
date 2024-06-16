@@ -26,48 +26,6 @@ CSS es esencial porque:
 
 ![Estructura del código CSS](./img/basic-css.png "Estructura del código CSS")
 
-### Selectores
-
-Los selectores son la manera en que CSS "elige" los elementos HTML que quieres estilizar. Hay varios tipos de selectores:
-
-**Selectores de Etiqueta:** Aplican estilos a todas las etiquetas del mismo tipo.
-
-```css
-p {
-  color: blue;
-}
-```
-
-Para usar este estilo, agregarías `class="mi-clase"` a cualquier etiqueta HTML.
-
-**Selectores de ID:** Aplican estilos a un elemento con un ID específico.
-
-```css
-#mi-id {
-  background-color: yellow;
-}
-```
-
-Para usar este estilo, agregarías `id="mi-id"` a una etiqueta HTML.
-
-### Propiedades y Valores
-
-CSS se compone de propiedades y valores. Una propiedad es el aspecto que quieres cambiar (como color, tamaño de fuente, margen, etc.), y un valor es la configuración para esa propiedad.
-
-```css
-h1 {
-  color: green;
-  font-size: 24px;
-  text-align: center;
-}
-```
-
-**En este ejemplo:**
-
-- `color` es la propiedad, y `green` es el valor.
-- `font-size` es la propiedad, y `24px` es el valor.
-- `text-align` es la propiedad, y `center` es el valor.
-
 ## Cómo Añadir CSS a Tu HTML
 
 **Existen tres formas principales de añadir CSS a tu HTML:**

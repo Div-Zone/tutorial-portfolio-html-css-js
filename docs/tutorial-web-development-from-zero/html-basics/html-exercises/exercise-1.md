@@ -10,7 +10,7 @@ Crear un Documento HTML Básico
 
 ### Actividad
 
-Crea un archivo HTML básico con la estructura mínima (`<!DOCTYPE html>`, `<html>`, `<head>`, `<body>`).
+Crea un archivo HTML básico con la estructura mínima `<!DOCTYPE html>`, `<html>`, `<head>`, `<body>`.
 
 ### Solución
 

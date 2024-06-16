@@ -10,7 +10,7 @@ Enlaces de Anclaje
 
 ### Actividad
 
-Crea un documento HTML con enlaces de anclaje que permitan desplazarse dentro de la misma página.
+Crea un documento HTML con enlaces de ancla que permitan desplazarse dentro de la misma página.
 
 ### Solución
 
@@ -19,7 +19,7 @@ Crea un documento HTML con enlaces de anclaje que permitan desplazarse dentro de
 <html lang="es">
   <head>
     <meta charset="UTF-8" />
-    <title>Enlaces de Anclaje</title>
+    <title>Enlaces de Ancla</title>
   </head>
   <body>
     <h2>Índice</h2>
