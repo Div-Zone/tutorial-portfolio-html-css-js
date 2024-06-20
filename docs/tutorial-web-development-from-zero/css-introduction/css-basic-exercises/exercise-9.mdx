@@ -8,7 +8,7 @@ sidebar_position: 9
 
 En este ejercicio, vamos a desarrollar un portafolio web completo utilizando HTML y CSS. Para el diseño, seguiremos el proyecto de **Pavan MG** en **Figma**.
 
-Este proyecto incluye cuatro secciones distintas en una única página, con enlaces de anclaje en un menú principal para facilitar la navegación.
+Este proyecto incluye cuatro secciones distintas en una única página, con enlaces "ancla" en un menú principal para facilitar la navegación.
 
 ## Estructura del Proyecto
 
@@ -22,6 +22,42 @@ El portafolio constará de las siguientes secciones:
 ## Imagen principal del porfolio
 
 ![Porfolio ejercicio CSS 9](./img/0-portfolio-desktop.jpg "Porfolio ejercicio CSS 9")
+
+## Fuentes
+
+Vamos a utilizar dos tipos de fuentes. Para instalarlas, en nuestro archivo css vamos a escribir lo siguiente:
+
+```css title="style.css"
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+```
+
+En el siguiente ejemplo podemos ver como utilizar las fuentes importadas de Google-Fonts.
+
+```css title="style.css"
+p {
+  font-family: "Poppins", sans-serif;
+}
+h1 {
+  font-family: "DM Sans", sans-serif;
+}
+```
+
+## Estilos generales
+
+Luego de importar las fuentes. Te recomiendo aplicar los siguientes estilos generales en tu hoja de estilos css.
+
+```css title="style.css"
+html,
+body {
+  margin: 0;
+  height: 100%;
+  word-wrap: break-word;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+}
+```
 
 ## Detalles del Diseño
 
@@ -59,4 +95,10 @@ Las imágenes de cada sección, cuentan con las medidas más importantes. Ademá
 
 ### Recursos
 
-[**Iconos de React Icons**](https://react-icons.github.io/react-icons/)
+1. [**Imágenes del proyecto**](https://drive.google.com/drive/folders/1DqbHwb3xi8jrhQ1skP8VQ7VK6P54Gdg0?usp=sharing)
+
+2. [**Fuente Poppins**](https://fonts.google.com/specimen/Poppins)
+
+3. [**Fuente DM Sans**](https://fonts.google.com/specimen/DM+Sans)
+
+4. [**Iconos de React Icons**](https://react-icons.github.io/react-icons/)
