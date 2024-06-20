@@ -4,40 +4,71 @@ sidebar_position: 4
 
 # Ejercicio 4
 
-Crea un diseño de página con tres columnas: una barra lateral izquierda, un contenido principal y una barra lateral derecha.
+Crea un formulario con estilos personalizados para los campos de entrada y el botón de envío.
 
 ```html title="HTML"
 <!DOCTYPE html>
 <html lang="es">
   <head>
     <meta charset="UTF-8" />
-    <title>Ejercicio 2</title>
+    <title>Ejercicio 3</title>
     <style>
       /* Escribe tu CSS aquí */
-      .container {
-        display: flex;
+      form {
+        width: 300px;
+        margin: auto;
+        padding: 20px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        background-color: #f9f9f9;
       }
 
-      .sidebar-left,
-      .sidebar-right {
-        width: 20%;
-        background-color: #f1f1f1;
-        padding: 20px;
+      label {
+        margin-bottom: 10px;
+        display: block;
       }
 
-      .main {
-        width: 60%;
-        background-color: #e2e2e2;
-        padding: 20px;
+      input[type="text"],
+      input[type="email"],
+      input[type="password"] {
+        width: 100%;
+        padding: 10px;
+        margin: 5px 0 10px 0;
+        display: inline-block;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        box-sizing: border-box;
+      }
+
+      input[type="submit"] {
+        width: 100%;
+        background-color: #4caf50;
+        color: white;
+        padding: 14px 20px;
+        margin: 8px 0;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+      }
+
+      input[type="submit"]:hover {
+        background-color: #45a049;
       }
     </style>
   </head>
   <body>
-    <div class="container">
-      <div class="sidebar-left">Barra lateral izquierda</div>
-      <div class="main">Contenido principal</div>
-      <div class="sidebar-right">Barra lateral derecha</div>
-    </div>
+    <form>
+      <label for="name">Nombre</label>
+      <input type="text" id="name" name="name" />
+
+      <label for="email">Correo Electrónico</label>
+      <input type="email" id="email" name="email" />
+
+      <label for="password">Contraseña</label>
+      <input type="password" id="password" name="password" />
+
+      <input type="submit" value="Enviar" />
+    </form>
   </body>
 </html>
 ```
