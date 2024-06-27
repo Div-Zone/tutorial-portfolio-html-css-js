@@ -122,17 +122,35 @@ La base flexible es la que define el tamaño de ese elemento en términos del es
 
 Si los elementos no tienen un tamaño, entonces el tamaño del contenido se utiliza como base flexible. Es por eso que cuando simplemente declaramos display: flex en el padre para crear elementos flexibles, todos los elementos se mueven a una fila y ocupan solo el espacio que necesitan para mostrar su contenido.
 
+```css title="CSS"
+.box {
+  flex-basis: 200px;
+}
+```
+
 ## La propiedad de crecimiento flexible: flex-grow
 
 Con la propiedad flex-grow establecida en un entero positivo, si hay espacio disponible, el elemento flexible puede crecer a lo largo del eje principal desde su base flexible. Si el elemento se estira para ocupar todo el espacio disponible en ese eje, o solo una parte del espacio disponible, depende de si a los otros elementos también se les permite crecer y del valor de sus propiedades de crecimiento flexible.
 
 Cada elemento con un valor positivo consume una parte del espacio disponible en función de su valor de crecimiento flexible. Si le dimos a todos nuestros elementos en el ejemplo anterior un valor de crecimiento flexible de 1, entonces el espacio disponible en el contenedor flexible se compartiría equitativamente entre nuestros elementos y se estirarían para llenar el contenedor en el eje principal. Si le damos a nuestro primer elemento un valor de crecimiento flexible de 2 y a los demás elementos un valor de 1 cada uno, hay un total de 4 partes; Se asignarán 2 partes del espacio disponible al primer elemento (100 px de 200 px en el caso del ejemplo anterior) y 1 parte a cada uno de los otros dos (50 px cada uno de los 200 px en total).
 
+```css title="CSS"
+.box {
+  flex-grow: 0;
+}
+```
+
 ## La propiedad de contracción flexible: flex-shrink
 
 Mientras que la propiedad flex-grow se ocupa de agregar espacio en el eje principal, la propiedad flex-shrink controla cómo se quita. Si no tenemos suficiente espacio en el contenedor para colocar nuestros elementos y flex-shrink se establece en un número entero positivo, entonces el elemento puede volverse más pequeño que la base flexible. Al igual que con flex-grow, se pueden asignar diferentes valores para hacer que un elemento se reduzca más rápido que otros: un elemento con un valor más alto establecido para flex-shrink se reducirá más rápido que sus hermanos que tienen valores más bajos.
 
 Un elemento puede reducirse hasta su tamaño de contenido mínimo. Este tamaño mínimo se tiene en cuenta al calcular la cantidad real de contracción que se producirá, lo que significa que la contracción flexible tiene el potencial de parecer menos consistente en su comportamiento que el crecimiento flexible. Por lo tanto, veremos más detalladamente cómo funciona este algoritmo en el artículo Control de proporciones de elementos a lo largo del eje principal.
+
+```css title="CSS"
+.box {
+  flex-shrink: 1;
+}
+```
 
 ## Valores abreviados para las propiedades flexibles.
 
@@ -141,3 +159,17 @@ Muy raramente verá las propiedades flex-grow, flex-shrink y flex-basis utilizad
 :::tip NOTA
 Estos valores para flex-grow y flex-shrink son proporciones. Normalmente, si tuviéramos todos nuestros elementos configurados en flex: 1 1 200px y luego quisiéramos que un elemento creciera al doble de velocidad, configuraríamos ese elemento en flex: 2 1 200px. Sin embargo, también puedes usar flex: 10 1 200px y flex: 20 1 200px si quieres.
 :::
+
+```css title="CSS"
+.box {
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-basis: auto;
+}
+
+/* Similar a: */
+
+.box {
+  flex: 0 1 auto;
+}
+```
