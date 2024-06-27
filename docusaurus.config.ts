@@ -1,43 +1,47 @@
-import { themes as prismThemes } from 'prism-react-renderer';
-import type { Config } from '@docusaurus/types';
-import type * as Preset from '@docusaurus/preset-classic';
+import { themes as prismThemes } from "prism-react-renderer";
+import type { Config } from "@docusaurus/types";
+import type * as Preset from "@docusaurus/preset-classic";
 
 const config: Config = {
-  title: 'DivZone Cursos',
-  tagline: 'Documentación',
-  favicon: 'img/favicon.ico',
+  title: "DivZone: Desarrollo De Software y Cursos Online",
+  tagline: "Documentación",
+  favicon: "img/favicon.ico",
 
   // Set the production url of your site here
-  url: 'https://docs.div.zone',
+  url: "https://docs.div.zone",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: "/",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'DivZone', // Usually your GitHub org/user name.
-  projectName: 'divzone', // Usually your repo name.
+  organizationName: "DivZone", // Usually your GitHub org/user name.
+  projectName: "divzone", // Usually your repo name.
 
-  onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
+  onBrokenLinks: "throw",
+  onBrokenMarkdownLinks: "warn",
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
+    defaultLocale: "es",
+    locales: ["es"],
   },
 
   presets: [
     [
-      'classic',
+      "classic",
       {
         docs: {
-          sidebarPath: './sidebars.ts',
+          sidebarPath: "./sidebars.ts",
         },
         theme: {
-          customCss: './src/css/custom.css',
+          customCss: "./src/css/custom.css",
+        },
+        gtag: {
+          trackingID: "G-XQX52D98DK",
+          anonymizeIP: true,
         },
       } satisfies Preset.Options,
     ],
@@ -45,12 +49,12 @@ const config: Config = {
 
   themeConfig: {
     // Replace with your project's social card
-    image: 'img/divzone-social-card.jpg',
+    image: "img/divzone-social-card.jpg",
     navbar: {
-      title: 'DivZone Docs',
+      title: "DivZone Docs",
       logo: {
-        alt: 'DivZone Docs Logo',
-        src: 'img/logo.svg',
+        alt: "DivZone Docs Logo",
+        src: "img/logo.svg",
       },
       items: [
         // {
@@ -60,47 +64,47 @@ const config: Config = {
         //   label: 'Tutoriales',
         // },
         {
-          href: 'https://github.com/Div-Zone',
-          label: 'GitHub',
-          position: 'right',
+          href: "https://github.com/Div-Zone",
+          label: "GitHub",
+          position: "right",
         },
       ],
     },
     footer: {
-      style: 'dark',
+      style: "dark",
       links: [
         {
-          title: 'Docs',
+          title: "Docs",
           items: [
             {
-              label: 'Tutorial',
-              to: '/docs/intro',
+              label: "Tutorial",
+              to: "/docs/intro",
             },
           ],
         },
         {
-          title: 'Community',
+          title: "Community",
           items: [
             {
-              label: 'Facebook',
-              href: 'https://www.facebook.com/divzone.official',
+              label: "Facebook",
+              href: "https://www.facebook.com/divzone.official",
             },
             {
-              label: 'YouTube',
-              href: 'https://www.youtube.com/@div_zone',
+              label: "YouTube",
+              href: "https://www.youtube.com/@div_zone",
             },
             {
-              label: 'Discord',
-              href: 'https://discord.gg/pNST4gkgby',
+              label: "Discord",
+              href: "https://discord.gg/pNST4gkgby",
             },
           ],
         },
         {
-          title: 'More',
+          title: "More",
           items: [
             {
-              label: 'GitHub',
-              href: 'https://github.com/Div-Zone',
+              label: "GitHub",
+              href: "https://github.com/Div-Zone",
             },
           ],
         },
