@@ -64,6 +64,11 @@ const config: Config = {
         //   label: 'Tutoriales',
         // },
         {
+          href: "https://div.zone/#courses",
+          label: "Cursos en video",
+          position: "left",
+        },
+        {
           href: "https://github.com/Div-Zone",
           label: "GitHub",
           position: "right",
