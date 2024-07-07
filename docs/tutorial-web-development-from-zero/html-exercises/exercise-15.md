@@ -14,7 +14,7 @@ Crea un enlace que permita descargar un archivo.
 
 ### Solución
 
-```html title="html"
+```html title="HTML"
 <!DOCTYPE html>
 <html lang="es">
   <head>

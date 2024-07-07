@@ -14,7 +14,7 @@ Inserta un archivo de audio usando la etiqueta `<audio>`.
 
 ### Solución
 
-```html title="html"
+```html title="HTML"
 <!DOCTYPE html>
 <html lang="es">
   <head>

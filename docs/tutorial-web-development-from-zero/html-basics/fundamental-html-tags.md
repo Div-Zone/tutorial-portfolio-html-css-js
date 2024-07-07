@@ -8,32 +8,32 @@ sidebar_position: 2
 
 Encabezados: Se utilizan para títulos y subtítulos. Van desde `<h1>` (el más importante) hasta `<h6>` (el menos importante).
 
-```html title="html"
+```html title="HTML"
 <h1>Título Principal</h1>
 <h2>Subtítulo</h2>
 ```
 
 Párrafos: Se crean con la etiqueta `<p>`.
 
-```html title="html"
+```html title="HTML"
 <p>Este es un párrafo de texto.</p>
 ```
 
 La etiqueta `<span>` es un contenedor en línea que se utiliza para textos especiales, para envolver una parte de un texto o una parte de un documento.
 
-```html title="html"
+```html title="HTML"
 <p>Este es un <span style="color:blue">ejemplo</span> de etiqueta span.</p>
 ```
 
 Enlaces: Se crean con la etiqueta `<a>` y se utilizan para navegar entre páginas.
 
-```html title="html"
+```html title="HTML"
 <a href="https://www.ejemplo.com">Visita Ejemplo</a>
 ```
 
 Imágenes: Se insertan con la etiqueta `<img>`.
 
-```html title="html"
+```html title="HTML"
 <img src="imagen.jpg" alt="Descripción de la imagen" />
 ```
 
@@ -43,19 +43,19 @@ Los atributos proporcionan información adicional sobre los elementos. Se coloca
 
 href: Usado en la etiqueta `<a>` para definir la URL del enlace.
 
-```html title="html"
+```html title="HTML"
 <a href="https://www.ejemplo.com">Visita Ejemplo</a>
 ```
 
 src: Usado en la etiqueta `<img>` para definir la ruta de la imagen.
 
-```html title="html"
+```html title="HTML"
 <img src="imagen.jpg" alt="Descripción de la imagen" />
 ```
 
 alt: Proporciona texto alternativo para las imágenes, importante para la accesibilidad.
 
-```html title="html"
+```html title="HTML"
 <img src="imagen.jpg" alt="Descripción de la imagen" />
 ```
 
@@ -63,7 +63,7 @@ alt: Proporciona texto alternativo para las imágenes, importante para la accesi
 
 Crea un documento HTML sencillo con un título, un párrafo, un enlace y una imagen. Aquí tienes un ejemplo básico:
 
-```html title="html"
+```html title="HTML"
 <!DOCTYPE html>
 <html>
   <head>

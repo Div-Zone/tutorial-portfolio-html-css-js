@@ -14,7 +14,7 @@ Crea una estructura básica de blog usando las etiquetas `<article>`, `<header>`
 
 ### Solución
 
-```html title="html"
+```html title="HTML"
 <!DOCTYPE html>
 <html lang="es">
   <head>

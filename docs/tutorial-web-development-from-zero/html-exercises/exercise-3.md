@@ -14,7 +14,7 @@ Crea un documento HTML con varios párrafos `<p>` y enlaces `<a>` que apunten a 
 
 ### Solución
 
-```html title="html"
+```html title="HTML"
 <!DOCTYPE html>
 <html lang="es">
   <head>

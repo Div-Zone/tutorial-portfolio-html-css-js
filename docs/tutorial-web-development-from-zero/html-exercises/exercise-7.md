@@ -14,7 +14,7 @@ Crea un formulario con campos de texto, correo electrónico y un botón de enví
 
 ### Solución
 
-```html title="html"
+```html title="HTML"
 <!DOCTYPE html>
 <html lang="es">
   <head>

@@ -6,7 +6,7 @@ sidebar_position: 1
 
 Todo documento HTML comienza con la declaración `<!DOCTYPE html>` seguida por la etiqueta `<html>`. Dentro de esta etiqueta, tenemos dos secciones principales: `<head>` y `<body>`.
 
-```html title="html"
+```html title="HTML"
 <!DOCTYPE html>
 <html>
   <head>

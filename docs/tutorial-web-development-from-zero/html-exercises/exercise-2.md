@@ -14,7 +14,7 @@ Crea un documento HTML que use todas las etiquetas de encabezado de `<h1>` a `<h
 
 ### Solución
 
-```html title="html"
+```html title="HTML"
 <!DOCTYPE html>
 <html lang="es">
   <head>

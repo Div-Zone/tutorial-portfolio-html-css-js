@@ -14,7 +14,7 @@ Crea una tabla con tres filas y tres columnas usando la etiqueta `<table>`.
 
 ### Solución
 
-```html title="html"
+```html title="HTML"
 <!DOCTYPE html>
 <html lang="es">
   <head>

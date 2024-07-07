@@ -14,7 +14,7 @@ Añade al formulario anterior campos de selección `<select>` y botones de radio
 
 ### Solución
 
-```html title="html"
+```html title="HTML"
 <!DOCTYPE html>
 <html lang="es">
   <head>

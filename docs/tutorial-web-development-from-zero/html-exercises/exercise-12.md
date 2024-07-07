@@ -14,7 +14,7 @@ Inserta un video de YouTube usando la etiqueta `<iframe>`.
 
 ### Solución
 
-```html title="html"
+```html title="HTML"
 <!DOCTYPE html>
 <html lang="es">
   <head>

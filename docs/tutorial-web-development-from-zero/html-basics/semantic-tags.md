@@ -11,7 +11,7 @@ Las etiquetas semánticas en HTML5 ayudan a estructurar mejor el contenido de un
 
 La etiqueta `<header>` se utiliza para definir el encabezado de una sección o de un documento. Este encabezado puede contener elementos como logotipos, títulos, menús de navegación, etc.
 
-```html title="html"
+```html title="HTML"
 <!DOCTYPE html>
 <html>
   <head>
@@ -36,7 +36,7 @@ En este ejemplo, el `<header>` contiene un título y un menú de navegación.
 
 La etiqueta `<nav>` se usa para definir un bloque de enlaces de navegación. Normalmente, contiene un menú principal del sitio web o un conjunto de enlaces a otras páginas o secciones del sitio.
 
-```html title="html"
+```html title="HTML"
 <!DOCTYPE html>
 <html>
   <head>
@@ -74,7 +74,7 @@ Aquí, `<nav>` contiene una lista de enlaces de navegación que llevan a diferen
 
 La etiqueta `<section>` se utiliza para definir una sección de un documento. Puede contener uno o más encabezados y está destinada a agrupar contenido relacionado.
 
-```html title="html"
+```html title="HTML"
 <!DOCTYPE html>
 <html>
   <head>
@@ -112,7 +112,7 @@ En este ejemplo, cada `<section>` agrupa contenido que pertenece a diferentes pa
 
 La etiqueta `<article>` se utiliza para contener contenido independiente y autónomo, como artículos, entradas de blog, comentarios, etc. Cada `<article>` debe tener sentido por sí mismo, incluso si se extrajera del documento.
 
-```html title="html"
+```html title="HTML"
 <!DOCTYPE html>
 <html>
   <head>
@@ -149,7 +149,7 @@ Aquí, cada `<article>` representa un artículo independiente con su propio cont
 
 La etiqueta `<footer>` se utiliza para definir el pie de página de un documento o una sección. Suele contener información como el autor del documento, enlaces a términos de uso, contacto, y más.
 
-```html title="html"
+```html title="HTML"
 <!DOCTYPE html>
 <html>
   <head>

@@ -14,7 +14,7 @@ Crea un documento HTML con una lista ordenada (`<ol>`) y una lista desordenada (
 
 ### Solución
 
-```html title="html"
+```html title="HTML"
 <!DOCTYPE html>
 <html lang="es">
   <head>

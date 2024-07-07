@@ -14,7 +14,7 @@ Crea un archivo HTML básico con la estructura mínima `<!DOCTYPE html>`, `<html
 
 ### Solución
 
-```html title="html"
+```html title="HTML"
 <!DOCTYPE html>
 <html>
   <head>

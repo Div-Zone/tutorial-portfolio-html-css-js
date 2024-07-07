@@ -14,7 +14,7 @@ Crea un formulario HTML que incluya campos de fecha `<input type="date">` y núm
 
 ### Solución
 
-```html title="html"
+```html title="HTML"
 <!DOCTYPE html>
 <html lang="es">
   <head>

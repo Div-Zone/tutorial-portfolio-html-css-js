@@ -14,7 +14,7 @@ Añade comentarios en un documento HTML.
 
 ### Solución
 
-```html title="html"
+```html title="HTML"
 <!DOCTYPE html>
 <html lang="es">
   <head>

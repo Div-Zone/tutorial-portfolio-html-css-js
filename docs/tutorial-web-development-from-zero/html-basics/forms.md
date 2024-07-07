@@ -10,7 +10,7 @@ Los formularios son una parte esencial de cualquier sitio web interactivo. Permi
 
 Un formulario en HTML se define usando la etiqueta `<form>`. Dentro de esta etiqueta, se incluyen diversos elementos de formulario como campos de texto, botones, cajas de verificación y más.
 
-```html title="html"
+```html title="HTML"
 <!DOCTYPE html>
 <html lang="es">
   <head>
@@ -72,7 +72,7 @@ Campos para que los usuarios introduzcan texto.
 <label for="nombre">Nombre:</label>
 <input type="text" id="nombre" name="nombre" style={{"margin-bottom": "16px" }} />
 
-```html title="html"
+```html title="HTML"
 <label for="nombre">Nombre:</label>
 <input type="text" id="nombre" name="nombre" />
 ```
@@ -84,7 +84,7 @@ Campos para que los usuarios introduzcan contraseñas. El texto introducido se o
 <label for="password">Contraseña:</label>
 <input type="password" id="password" name="password" style={{"margin-bottom": "16px"}} />
 
-```html title="html"
+```html title="HTML"
 <label for="password">Contraseña:</label>
 <input type="password" id="password" name="password" />
 ```
@@ -96,7 +96,7 @@ Campos específicamente para direcciones de correo electrónico, con validación
 <label for="email">Correo Electrónico:</label>
 <input type="email" id="email" name="email" style={{"margin-bottom": "16px"}} />
 
-```html title="html"
+```html title="HTML"
 <label for="email">Correo Electrónico:</label>
 <input type="email" id="email" name="email" />
 ```
@@ -107,7 +107,7 @@ Campos que aceptan solo números.
 
 <label for="edad">Edad:</label> <input type="number" id="edad" name="edad" style={{"margin-bottom": "16px"}} />
 
-```html title="html"
+```html title="HTML"
 <label for="edad">Edad:</label> <input type="number" id="edad" name="edad" />
 ```
 
@@ -118,7 +118,7 @@ Campos para seleccionar fechas.
 <label for="fecha-nacimiento">Fecha de Nacimiento:</label>
 <input type="date" id="fecha-nacimiento" name="fecha-nacimiento" style={{"margin-bottom": "16px"}} />
 
-```html title="html"
+```html title="HTML"
 <label for="fecha-nacimiento">Fecha de Nacimiento:</label>
 <input type="date" id="fecha-nacimiento" name="fecha-nacimiento" />
 ```
@@ -134,7 +134,7 @@ Permiten a los usuarios seleccionar una opción entre varias.
 <label for="femenino">Femenino</label>
 <br style={{"margin-bottom": "16px"}} />
 
-```html title="html"
+```html title="HTML"
 <label>Género:</label>
 <input type="radio" id="masculino" name="genero" value="masculino" />
 <label for="masculino">Masculino</label>
@@ -155,7 +155,7 @@ Permiten a los usuarios seleccionar múltiples opciones.
 <label for="lectura">Lectura</label>
 <br style={{"margin-bottom": "16px"}} />
 
-```html title="html"
+```html title="HTML"
 <label>Intereses:</label>
 <input type="checkbox" id="musica" name="intereses" value="musica" />
 <label for="musica">Música</label>
@@ -179,7 +179,7 @@ Permiten a los usuarios seleccionar una opción de una lista desplegable.
 </select>
 <br style={{"margin-bottom": "16px"}} />
 
-```html title="html"
+```html title="HTML"
 <label for="pais">País:</label>
 <select id="pais" name="pais">
   <option value="argentina">Argentina</option>
