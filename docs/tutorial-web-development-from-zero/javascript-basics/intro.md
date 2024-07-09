@@ -407,3 +407,40 @@ La única excepción es que puede llamar al método `window.print()` en el naveg
   </body>
 </html>
 ```
+
+## Comentarios de JavaScript
+
+Los comentarios de JavaScript se pueden utilizar para explicar el código JavaScript y hacerlo más legible.
+
+Los comentarios de JavaScript también se pueden utilizar para evitar la ejecución al probar código alternativo.
+
+### Comentarios de una sola línea
+
+Los comentarios de una sola línea comienzan con `//`.
+
+JavaScript ignorará cualquier texto entre `//` y el final de la línea (no se ejecutará).
+
+### Comentarios de varias líneas
+
+Los comentarios de varias líneas comienzan con `/*` y terminan con `*/`.
+
+JavaScript ignorará cualquier texto entre `/*` y `*/`.
+
+Este ejemplo utiliza un comentario de una sola línea y de varias líneas (un bloque de comentarios) para explicar el código:
+
+```javascript title="JS"
+// Change heading:
+document.getElementById("myH").innerHTML = "My First Page";
+
+// Change paragraph:
+document.getElementById("myP").innerHTML = "My first paragraph.";
+
+/*
+The code below will change
+the heading with id = "myH"
+and the paragraph with id = "myP"
+in my web page:
+*/
+document.getElementById("myH").innerHTML = "My First Page";
+document.getElementById("myP").innerHTML = "My first paragraph.";
+```
