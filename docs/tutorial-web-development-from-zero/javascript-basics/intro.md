@@ -6,7 +6,7 @@ sidebar_position: 1
 
 **JavaScript** es el lenguaje de programación más popular y ampliamente utilizado en el mundo, conocido por su versatilidad y poder en el desarrollo web. Desde su creación, ha sido el motor principal detrás de la interactividad y dinamismo de las páginas web.
 
-JavaScript es el lenguaje de programación de la Web, lo que significa que se ejecuta en los navegadores, permitiendo a los desarrolladores crear experiencias de usuario ricas y funcionales. **Con JavaScript, puedes manipular el DOM (Document Object Model) para actualizar el contenido de la página, responder a eventos del usuario, validar formularios, animar elementos, y mucho más, sin necesidad de recargar la página**.
+JavaScript es el lenguaje de programación de la Web, lo que significa que **se ejecuta en los navegadores**, permitiendo a los desarrolladores crear experiencias de usuario ricas y funcionales. **Con JavaScript, puedes manipular el DOM (Document Object Model) para actualizar el contenido de la página, responder a eventos del usuario, validar formularios, animar elementos, y mucho más, sin necesidad de recargar la página**.
 
 Una de las grandes ventajas de JavaScript es su **facilidad de aprendizaje**. Su sintaxis es intuitiva y accesible para principiantes, permitiendo que los nuevos desarrolladores comiencen a escribir código funcional rápidamente. Además, hay una **gran cantidad de recursos, comunidades y herramientas disponibles** para aprender y perfeccionar tus habilidades en JavaScript.
 
@@ -86,7 +86,7 @@ En el siguiente ejemplo, utilizamos JavaScript para cambiar el tamaño de la fue
 </html>
 ```
 
-:::tip
+:::tip NOTA
 En este código:
 `document.getElementById("demo")` selecciona el elemento `<p>` con el `id="demo".
     .style.fontSize = "35px"` cambia la propiedad CSS fontSize del elemento seleccionado, ajustando el tamaño de la fuente a 35 píxeles.
@@ -300,7 +300,7 @@ JavaScript puede "mostrar" datos de diferentes maneras:
 - Escribir en un cuadro de alerta, usando `window.alert()`.
 - Escribiendo en la consola del navegador, usando `console.log()`.
 
-## Usando HTML interno: innerHTML
+## Usando HTML interno: `innerHTML`
 
 Para acceder a un elemento HTML, JavaScript puede utilizar el método `document.getElementById(id)`.
 
@@ -322,7 +322,7 @@ El atributo `id` define el elemento HTML. La propiedad `internalHTML` define el 
 </html>
 ```
 
-## Using document.write()
+## Using `document.write()`
 
 Para fines de prueba, es conveniente utilizar `document.write()`:
 
@@ -340,7 +340,7 @@ Para fines de prueba, es conveniente utilizar `document.write()`:
 </html>
 ```
 
-## Usando window.alert()
+## Usando `window.alert()`
 
 Puede utilizar un cuadro de alerta para mostrar datos:
 
