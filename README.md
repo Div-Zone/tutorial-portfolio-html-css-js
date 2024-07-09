@@ -8,7 +8,7 @@ Este proyecto contiene el código fuente de mi tutorial de desarrollo web que pu
 
 ### 📚 Recursos
 
-- Checkea mi documentación sobre Desarrollo Web [**Mi docu**](https://docs.div.zone).
+- Checkea la documentación escrita sobre este curso [**Mi docu**](https://docs.div.zone).
 - Mira mi canal de YouTube [Mis videos](https://www.youtube.com/@div_zone).
 - Ingresa gratis al grupo de Discord [Discord DivZone](https://discord.gg/pNST4gkgby).
 - Apoya mi proyecto en Facebook: [DivZone Facebook](https://www.facebook.com/divzone.official).
