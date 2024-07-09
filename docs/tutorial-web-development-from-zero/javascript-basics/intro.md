@@ -88,8 +88,322 @@ En el siguiente ejemplo, utilizamos JavaScript para cambiar el tamaño de la fue
 
 :::tip
 En este código:
-
-    `document.getElementById("demo")` selecciona el elemento `<p>` con el `id="demo".
+`document.getElementById("demo")` selecciona el elemento `<p>` con el `id="demo".
     .style.fontSize = "35px"` cambia la propiedad CSS fontSize del elemento seleccionado, ajustando el tamaño de la fuente a 35 píxeles.
-
 :::
+
+## Dónde escribir JavaScript
+
+### La etiqueta `<script>`
+
+En HTML, el código JavaScript se inserta entre las etiquetas `<script>` y `</script>`.
+
+```javascript title="JS"
+<script>
+  document.getElementById("demo").innerHTML = "Mi primer JavaScript";
+</script>
+```
+
+## Funciones y eventos de JavaScript
+
+Una función de JavaScript es un bloque de código JavaScript que se puede ejecutar cuando se "llama".
+
+Por ejemplo, se puede llamar a una función cuando ocurre un evento, como cuando el usuario hace clic en un botón.
+
+Aprenderá mucho más sobre funciones y eventos en capítulos posteriores.
+
+## JavaScript en `<head>` o `<body>`
+
+Puede colocar cualquier cantidad de scripts en un documento HTML.
+
+Los scripts se pueden colocar en la sección `<body>`, o en el `<head>` de una página HTML, o en ambas.
+
+## JavaScript en `<head>`
+
+En este ejemplo, se coloca una función de JavaScript en la sección `<head>` de una página HTML.
+
+La función se invoca (llama) cuando se hace clic en un botón.
+
+## Ejemplo
+
+```html title="HTML"
+<!DOCTYPE html>
+<html>
+  <head>
+    <script>
+      function myFunction() {
+        document.getElementById("demo").innerHTML = "Paragraph changed.";
+      }
+    </script>
+  </head>
+  <body>
+    <h2>Demo JavaScript in Head</h2>
+
+    <p id="demo">A Paragraph</p>
+    <button type="button" onclick="myFunction()">Try it</button>
+  </body>
+</html>
+```
+
+## JavaScript en `<body>`
+
+En este ejemplo, se coloca una función de JavaScript en la sección `<body>` de una página HTML.
+
+La función se invoca (llama) cuando se hace clic en un botón.
+
+## Ejemplo
+
+```html title="HTML"
+<!DOCTYPE html>
+<html>
+  <body>
+    <h2>Demo JavaScript in Body</h2>
+
+    <p id="demo">A Paragraph</p>
+
+    <button type="button" onclick="myFunction()">Try it</button>
+
+    <script>
+      function myFunction() {
+        document.getElementById("demo").innerHTML = "Paragraph changed.";
+      }
+    </script>
+  </body>
+</html>
+```
+
+:::tip NOTA
+Placing scripts at the bottom of the `<body>` element improves the display speed, because script interpretation slows down the display.
+:::
+
+## JavaScript externo
+
+Los scripts también se pueden colocar en archivos externos.
+Los archivos JavaScript tienen la extensión de archivo .js.
+
+## Ejemplo
+
+```javascript title="myScript.js"
+function myFunction() {
+  document.getElementById("demo").innerHTML = "Paragraph changed.";
+}
+```
+
+Los scripts externos son prácticos cuando se utiliza el mismo código en muchas páginas web diferentes.
+
+Para utilizar un script externo, coloque el nombre del archivo del script en el atributo src (fuente) de una etiqueta `<script>`.
+
+## Ejemplo
+
+```javascript title="JS"
+<script src="myScript.js"></script>
+```
+
+Puede colocar una referencia de script externa en `<head>` o `<body>` como desee.
+
+El script se comportará como si estuviera ubicado exactamente donde se encuentra la etiqueta `<script>`.
+
+:::tip NOTA
+Los scripts externos no pueden contener etiquetas `<script>`.
+:::
+
+## External JavaScript Advantages
+
+Placing scripts in external files has some advantages:
+
+- It separates HTML and code
+- It makes HTML and JavaScript easier to read and maintain
+- Cached JavaScript files can speed up page loads
+
+Para agregar varios archivos de script a una página, utilice varias etiquetas de script.
+
+```html title="HTML"
+<!DOCTYPE html>
+<html>
+  <body>
+    <h2>Demo external JavaScript</h2>
+
+    <p id="demo">A Paragraph</p>
+
+    <button type="button" onclick="myFunction()">Try it</button>
+
+    <script src="myScript1.js"></script>
+    <script src="myScript2.js"></script>
+  </body>
+</html>
+```
+
+## Referencias externas
+
+Se puede hacer referencia a un script externo de 3 maneras diferentes:
+
+- Con una URL completa (una dirección web completa)
+- Con una ruta de archivo (como /js/)
+- sin ningún camino
+
+Este ejemplo utiliza una URL completa para vincular a myScript.js:
+
+```html title="HTML"
+<!DOCTYPE html>
+<html>
+  <body>
+    <h2>Demo external JavaScript</h2>
+
+    <p id="demo">A Paragraph</p>
+
+    <script
+      src="https://unpkg.com/react@18/umd/react.development.js"
+      crossorigin
+    ></script>
+  </body>
+</html>
+```
+
+Este ejemplo utiliza una ruta de archivo para vincular a myScript.js:
+
+```html title="HTML"
+<!DOCTYPE html>
+<html>
+  <body>
+    <h2>Demo external JavaScript</h2>
+
+    <p id="demo">A Paragraph</p>
+
+    <script src="/js/myScript.js"></script>
+  </body>
+</html>
+```
+
+Este ejemplo no utiliza ninguna ruta para vincular a myScript.js:
+
+```html title="HTML"
+<!DOCTYPE html>
+<html>
+  <body>
+    <h2>Demo external JavaScript</h2>
+
+    <p id="demo">A Paragraph</p>
+
+    <script src="myScript.js"></script>
+  </body>
+</html>
+```
+
+## Salida de JavaScript
+
+Posibilidades de visualización de JavaScript
+
+JavaScript puede "mostrar" datos de diferentes maneras:
+
+- Escribir en un elemento HTML, usando `InnerHTML`.
+- Escribir en la salida HTML usando `document.write()`.
+- Escribir en un cuadro de alerta, usando `window.alert()`.
+- Escribiendo en la consola del navegador, usando `console.log()`.
+
+## Usando HTML interno: innerHTML
+
+Para acceder a un elemento HTML, JavaScript puede utilizar el método `document.getElementById(id)`.
+
+El atributo `id` define el elemento HTML. La propiedad `internalHTML` define el contenido HTML:
+
+```html title="HTML"
+<!DOCTYPE html>
+<html>
+  <body>
+    <h1>My First Web Page</h1>
+    <p>My First Paragraph</p>
+
+    <p id="demo"></p>
+
+    <script>
+      document.getElementById("demo").innerHTML = 5 + 6;
+    </script>
+  </body>
+</html>
+```
+
+## Using document.write()
+
+Para fines de prueba, es conveniente utilizar `document.write()`:
+
+```html title="HTML"
+<!DOCTYPE html>
+<html>
+  <body>
+    <h1>My First Web Page</h1>
+    <p>My first paragraph.</p>
+
+    <script>
+      document.write(5 + 6);
+    </script>
+  </body>
+</html>
+```
+
+## Usando window.alert()
+
+Puede utilizar un cuadro de alerta para mostrar datos:
+
+```html title="HTML"
+<!DOCTYPE html>
+<html>
+  <body>
+    <h1>My First Web Page</h1>
+    <p>My first paragraph.</p>
+
+    <script>
+      window.alert(5 + 6);
+    </script>
+  </body>
+</html>
+```
+
+## Puede omitir la palabra clave de `window`.
+
+En JavaScript, el objeto de ventana es el objeto de alcance global. Esto significa que las variables, propiedades y métodos pertenecen por defecto al objeto de ventana. Esto también significa que especificar la palabra clave `window` es opcional:
+
+```html title="HTML"
+<!DOCTYPE html>
+<html>
+  <body>
+    <h1>My First Web Page</h1>
+    <p>My first paragraph.</p>
+
+    <script>
+      alert(5 + 6);
+    </script>
+  </body>
+</html>
+```
+
+## Usando `console.log()`
+
+Para fines de depuración, puede llamar al método `console.log()` en el navegador para mostrar datos.
+
+```html title="HTML"
+<!DOCTYPE html>
+<html>
+  <body>
+    <script>
+      console.log(5 + 6);
+    </script>
+  </body>
+</html>
+```
+
+## JavaScript Imprimir
+
+JavaScript no tiene ningún objeto de impresión ni métodos de impresión.
+
+No puede acceder a los dispositivos de salida desde JavaScript.
+
+La única excepción es que puede llamar al método `window.print()` en el navegador para imprimir el contenido de la ventana actual.
+
+```html title="HTML"
+<!DOCTYPE html>
+<html>
+  <body>
+    <button onclick="window.print()">Print this page</button>
+  </body>
+</html>
+```
