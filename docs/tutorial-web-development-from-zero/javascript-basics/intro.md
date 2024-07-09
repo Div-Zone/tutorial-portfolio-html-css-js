@@ -8,6 +8,8 @@ sidebar_position: 1
 
 JavaScript es el lenguaje de programación de la Web, lo que significa que **se ejecuta en los navegadores**, permitiendo a los desarrolladores crear experiencias de usuario ricas y funcionales. **Con JavaScript, puedes manipular el DOM (Document Object Model) para actualizar el contenido de la página, responder a eventos del usuario, validar formularios, animar elementos, y mucho más, sin necesidad de recargar la página**.
 
+![DOM . Document Object Model](./img/dom.gif "DOM . Document Object Model")
+
 Una de las grandes ventajas de JavaScript es su **facilidad de aprendizaje**. Su sintaxis es intuitiva y accesible para principiantes, permitiendo que los nuevos desarrolladores comiencen a escribir código funcional rápidamente. Además, hay una **gran cantidad de recursos, comunidades y herramientas disponibles** para aprender y perfeccionar tus habilidades en JavaScript.
 
 Este tutorial está diseñado para llevarte desde los conceptos básicos hasta las técnicas avanzadas de JavaScript. Comenzarás aprendiendo los **fundamentos del lenguaje, incluyendo variables, tipos de datos, y estructuras de control**. A medida que avances, explorarás temas más complejos como **funciones, objetos, y manipulación del DOM**. Finalmente, te adentrarás en conceptos avanzados como **asincronía, promesas, y las modernas APIs del navegador**.
