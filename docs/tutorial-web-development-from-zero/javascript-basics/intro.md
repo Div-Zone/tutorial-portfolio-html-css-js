@@ -175,7 +175,7 @@ La función se invoca (llama) cuando se hace clic en un botón.
 ```
 
 :::tip NOTA
-Placing scripts at the bottom of the `<body>` element improves the display speed, because script interpretation slows down the display.
+Colocar scripts en la parte inferior del elemento `<body>` mejora la velocidad de visualización, porque la interpretación de los scripts ralentiza la visualización.
 :::
 
 ## JavaScript externo
@@ -209,13 +209,13 @@ El script se comportará como si estuviera ubicado exactamente donde se encuentr
 Los scripts externos no pueden contener etiquetas `<script>`.
 :::
 
-## External JavaScript Advantages
+## Ventajas de JavaScript externo
 
-Placing scripts in external files has some advantages:
+Colocar scripts en archivos externos tiene algunas ventajas:
 
-- It separates HTML and code
-- It makes HTML and JavaScript easier to read and maintain
-- Cached JavaScript files can speed up page loads
+- Separa HTML y código.
+- Hace que HTML y JavaScript sean más fáciles de leer y mantener.
+- Los archivos JavaScript almacenados en caché pueden acelerar la carga de la página
 
 Para agregar varios archivos de script a una página, utilice varias etiquetas de script.
 
