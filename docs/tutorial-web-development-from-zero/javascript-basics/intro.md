@@ -106,14 +106,6 @@ En HTML, el código JavaScript se inserta entre las etiquetas `<script>` y `</sc
 </script>
 ```
 
-## Funciones y eventos de JavaScript
-
-Una función de JavaScript es un bloque de código JavaScript que se puede ejecutar cuando se "llama".
-
-Por ejemplo, se puede llamar a una función cuando ocurre un evento, como cuando el usuario hace clic en un botón.
-
-Aprenderá mucho más sobre funciones y eventos en capítulos posteriores.
-
 ## JavaScript en `<head>` o `<body>`
 
 Puede colocar cualquier cantidad de scripts en un documento HTML.
@@ -446,3 +438,11 @@ in my web page:
 document.getElementById("myH").innerHTML = "My First Page";
 document.getElementById("myP").innerHTML = "My first paragraph.";
 ```
+
+## Funciones y eventos de JavaScript
+
+Una función de JavaScript es un bloque de código JavaScript que se puede ejecutar cuando se "llama".
+
+Por ejemplo, se puede llamar a una función cuando ocurre un evento, como cuando el usuario hace clic en un botón.
+
+Aprenderá mucho más sobre funciones y eventos en capítulos posteriores.
