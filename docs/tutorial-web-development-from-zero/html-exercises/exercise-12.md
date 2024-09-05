@@ -22,7 +22,7 @@ Inserta un video de YouTube usando la etiqueta `<iframe>`.
     <title>Video Integrado</title>
   </head>
   <body>
-    <h2>Video de YouTube</h2>
+    <h1>Video de YouTube</h1>
     <iframe
       width="560"
       height="315"

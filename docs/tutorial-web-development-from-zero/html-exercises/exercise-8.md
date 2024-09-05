@@ -22,7 +22,7 @@ Añade al formulario anterior campos de selección `<select>` y botones de radio
     <title>Formulario con Selección y Radio</title>
   </head>
   <body>
-    <h2>Formulario</h2>
+    <h1>Formulario</h1>
     <form>
       <label for="nombre">Nombre:</label>
       <input type="text" id="nombre" name="nombre" />

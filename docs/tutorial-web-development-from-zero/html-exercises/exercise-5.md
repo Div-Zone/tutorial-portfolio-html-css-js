@@ -22,7 +22,7 @@ Crea un documento HTML que incluya una imagen usando la etiqueta `<img>`.
     <title>Imágenes</title>
   </head>
   <body>
-    <h2>Imagen</h2>
+    <h1>Imagen</h1>
     <img src="https://via.placeholder.com/150" alt="Imagen de ejemplo" />
   </body>
 </html>

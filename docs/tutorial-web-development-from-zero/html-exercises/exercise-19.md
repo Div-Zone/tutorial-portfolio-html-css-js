@@ -22,7 +22,7 @@ Inserta una página HTML dentro de otra usando `<iframe>`.
     <title>Iframe</title>
   </head>
   <body>
-    <h2>Página con Iframe</h2>
+    <h1>Página con Iframe</h1>
     <iframe src="page.html" width="600" height="400"></iframe>
   </body>
 </html>

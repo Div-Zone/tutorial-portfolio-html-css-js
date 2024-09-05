@@ -22,7 +22,7 @@ Crea un enlace que permita descargar un archivo.
     <title>Enlace de Descarga</title>
   </head>
   <body>
-    <h2>Descargar Archivo</h2>
+    <h1>Descargar Archivo</h1>
     <a href="archivo/mi_documento.pdf" download>Descargar PDF</a>
   </body>
 </html>

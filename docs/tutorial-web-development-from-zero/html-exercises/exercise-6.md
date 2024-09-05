@@ -22,7 +22,7 @@ Crea una tabla con tres filas y tres columnas usando la etiqueta `<table>`.
     <title>Tablas</title>
   </head>
   <body>
-    <h2>Tabla</h2>
+    <h1>Tabla</h1>
     <table border="1">
       <tr>
         <th>Encabezado 1</th>

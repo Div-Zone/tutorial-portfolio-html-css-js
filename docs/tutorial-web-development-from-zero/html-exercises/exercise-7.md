@@ -22,7 +22,7 @@ Crea un formulario con campos de texto, correo electrónico y un botón de enví
     <title>Formulario Básico</title>
   </head>
   <body>
-    <h2>Formulario</h2>
+    <h1>Formulario</h1>
     <form>
       <label for="nombre">Nombre:</label>
       <input type="text" id="nombre" name="nombre" />

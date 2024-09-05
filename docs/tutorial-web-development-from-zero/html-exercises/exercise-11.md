@@ -22,7 +22,7 @@ Crea un documento HTML con enlaces de ancla que permitan desplazarse dentro de l
     <title>Enlaces de Ancla</title>
   </head>
   <body>
-    <h2>Índice</h2>
+    <h1>Índice</h1>
     <ul>
       <li><a href="#seccion1">Sección 1</a></li>
       <li><a href="#seccion2">Sección 2</a></li>

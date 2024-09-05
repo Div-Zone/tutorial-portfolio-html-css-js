@@ -22,7 +22,7 @@ Crea un documento HTML con una lista ordenada (`<ol>`) y una lista desordenada (
     <title>Listas</title>
   </head>
   <body>
-    <h2>Lista Ordenada</h2>
+    <h1>Lista Ordenada</h1>
     <ol>
       <li>Elemento 1</li>
       <li>Elemento 2</li>

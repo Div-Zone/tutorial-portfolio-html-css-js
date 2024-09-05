@@ -22,7 +22,7 @@ Crea un documento HTML que contenga enlaces absolutos y relativos.
     <title>Enlaces Absolutos y Relativos</title>
   </head>
   <body>
-    <h2>Enlace Absoluto</h2>
+    <h1>Enlace Absoluto</h1>
     <a href="https://www.google.com" target="_blank">Ir a Google</a>
 
     <h2>Enlace Relativo</h2>

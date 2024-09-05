@@ -22,7 +22,7 @@ Añade al formulario anterior casillas de verificación `<input type="checkbox">
     <title>Formulario con Casillas de Verificación</title>
   </head>
   <body>
-    <h2>Formulario</h2>
+    <h1>Formulario</h1>
     <form>
       <label for="nombre">Nombre:</label>
       <input type="text" id="nombre" name="nombre" />

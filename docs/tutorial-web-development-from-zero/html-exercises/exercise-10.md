@@ -22,7 +22,7 @@ Crea un documento HTML donde una imagen sirva como enlace.
     <title>Enlaces con Imágenes</title>
   </head>
   <body>
-    <h2>Enlace con Imagen</h2>
+    <h1>Enlace con Imagen</h1>
     <a href="https://www.google.com" target="_blank">
       <img src="https://via.placeholder.com/150" alt="Google" />
     </a>

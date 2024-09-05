@@ -22,7 +22,7 @@ Inserta un archivo de audio usando la etiqueta `<audio>`.
     <title>Audio Integrado</title>
   </head>
   <body>
-    <h2>Audio</h2>
+    <h1>Audio</h1>
     <audio controls>
       <source src="audio/mi_audio.mp3" type="audio/mpeg" />
       Tu navegador no soporta la reproducción de audio.
