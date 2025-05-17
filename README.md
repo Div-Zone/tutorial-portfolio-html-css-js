@@ -1,41 +1,30 @@
-# Website
+<h1 align="center">Tutorial HTML, CSS y JS - Portafolio De Desarrollador Web</h1>
+<h3 align="center">
+    Bienvenidos a mi tutorial de desarrollo web desde cero con HTML, CSS y JavaScript
+</h3>
+<br/>
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+Este proyecto contiene el código fuente de mi tutorial de desarrollo web que puedes visitar en: [**DivZone Desarrollo Web Desde Cero**](https://div.zone/)
 
-### Installation
+### 📚 Recursos
 
-```
-$ yarn
-```
+- Checkea la documentación escrita sobre este curso [**Mi docu**](https://docs.div.zone).
+- Mira mi canal de YouTube [Mis videos](https://www.youtube.com/@div_zone).
+- Ingresa gratis al grupo de Discord [Discord DivZone](https://discord.gg/pNST4gkgby).
+- Apoya mi proyecto en Facebook: [DivZone Facebook](https://www.facebook.com/divzone.official).
+- Apoya mi proyecto en Instagram: [DivZone Instagram](https://www.instagram.com/divzone.official/)
 
-### Local Development
+### 👩🏻‍⚖️ Licencia
 
-```
-$ yarn start
-```
+- MIT licensed
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+## ✔ Soporte
 
-### Build
+**help@div.zone**
 
-```
-$ yarn build
-```
+## 👍 Créditos
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+- Imagenes de logos: [pngwing.com](https://www.svgrepo.com/)
+- Fuentes: "DM Sans" y "Poppins" free google font
+- Iconos de [react-icons.github.io](https://react-icons.github.io/react-icons/)
+- Diseño de PavanMG - [Figma](https://www.figma.com/)
