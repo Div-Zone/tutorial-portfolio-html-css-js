@@ -12,19 +12,19 @@ Tener varios navegadores instalados es crucial para probar y asegurar que tus si
 
 ### Mozilla Firefox:
 
-1. Visita la [página de descarga de Firefox](https://www.mozilla.org/en-US/firefox/new/).
+1. Visita la [página de descarga de Firefox](https://www.mozilla.org/en-US/firefox/new/ "Firefox web oficial link").
 2. Haz clic en el botón "Download Now" (Descargar ahora).
 3. Ejecuta el archivo descargado y sigue las instrucciones para completar la instalación.
 
 ### Google Chrome:
 
-1. Dirígete a la [página de descarga de Google Chrome](https://www.google.com/chrome/).
+1. Dirígete a la [página de descarga de Google Chrome](https://www.google.com/chrome/ "Google Chrome web oficial link").
 2. Haz clic en el botón "Download Chrome" (Descargar Chrome).
 3. Ejecuta el archivo descargado y sigue las instrucciones de instalación.
 
 ### Microsoft Edge:
 
-1. Accede a la [página de descarga de Microsoft Edge](https://www.microsoft.com/en-us/edge/download?form=MA13FJ).
+1. Accede a la [página de descarga de Microsoft Edge](https://www.microsoft.com/en-us/edge/download?form=MA13FJ "Microsoft Edge web oficial link").
 2. Haz clic en el botón "Download" (Descargar).
 3. Ejecuta el archivo descargado y sigue las instrucciones para instalar el navegador.
 
@@ -34,7 +34,7 @@ Un buen editor de texto es esencial para escribir y gestionar tu código de mane
 
 ### Visual Studio Code:
 
-1. Visita la [página de descarga de Visual Studio Code](https://code.visualstudio.com/download).
+1. Visita la [página de descarga de Visual Studio Code](https://code.visualstudio.com/download "VS Code web oficial link").
 2. Selecciona la versión adecuada para tu sistema operativo (Windows, macOS o Linux).
 3. Descarga el archivo y sigue las instrucciones de instalación.
 
@@ -48,7 +48,7 @@ Un buen editor de texto es esencial para escribir y gestionar tu código de mane
 
 **Editor**: Jun Han
 
-**Link de VS Marketplace**: [Link de Marketplace](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
+**Link de VS Marketplace**: [Link de Marketplace](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag "Auto Close Tag VS Code Marketplace link")
 
 #### Auto Rename Tag
 
@@ -58,7 +58,7 @@ Un buen editor de texto es esencial para escribir y gestionar tu código de mane
 
 **Editor**: Jun Han
 
-**Link de VS Marketplace**: [Link de Marketplace](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
+**Link de VS Marketplace**: [Link de Marketplace](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag "Auto Rename Tag VS Code Marketplace link")
 
 #### Autoprefixer
 
@@ -68,7 +68,7 @@ Un buen editor de texto es esencial para escribir y gestionar tu código de mane
 
 **Editor**: mrmlnc
 
-**Link de VS Marketplace**: [Link de Marketplace](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-autoprefixer)
+**Link de VS Marketplace**: [Link de Marketplace](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-autoprefixer "Autoprefixer VS Code Marketplace link")
 
 #### HTML CSS Support
 
@@ -78,7 +78,7 @@ Un buen editor de texto es esencial para escribir y gestionar tu código de mane
 
 **Editor**: ecmel
 
-**Link de VS Marketplace**: [Link de Marketplace](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css)
+**Link de VS Marketplace**: [Link de Marketplace](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css "HTML CSS VS Code Marketplace link")
 
 #### html tag wrapper
 
@@ -88,7 +88,7 @@ Un buen editor de texto es esencial para escribir y gestionar tu código de mane
 
 **Editor**: hwencc
 
-**Link de VS Marketplace**: [Link de Marketplace](https://marketplace.visualstudio.com/items?itemName=hwencc.html-tag-wrapper)
+**Link de VS Marketplace**: [Link de Marketplace](https://marketplace.visualstudio.com/items?itemName=hwencc.html-tag-wrapper "Tag Wrapper VS Code Marketplace link")
 
 #### JavaScript (ES6) code snippets
 
@@ -98,7 +98,7 @@ Un buen editor de texto es esencial para escribir y gestionar tu código de mane
 
 **Editor**: charalampos karypidis
 
-**Link de VS Marketplace**: [Link de Marketplace](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)
+**Link de VS Marketplace**: [Link de Marketplace](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets "JavaScript Snippets VS Code Marketplace link")
 
 #### Live Server
 
@@ -108,7 +108,7 @@ Un buen editor de texto es esencial para escribir y gestionar tu código de mane
 
 **Editor**: Ritwick Dey
 
-**Link de VS Marketplace**: [Link de Marketplace](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+**Link de VS Marketplace**: [Link de Marketplace](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer "LiveServer VS Code Marketplace link")
 
 #### Material Icon Theme
 
@@ -118,7 +118,7 @@ Un buen editor de texto es esencial para escribir y gestionar tu código de mane
 
 **Editor**: Philipp Kief
 
-**Link de VS Marketplace**: [Link de Marketplace](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+**Link de VS Marketplace**: [Link de Marketplace](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme "Material Icon Theme VS Code Marketplace link")
 
 #### npm Intellisense
 
@@ -128,7 +128,7 @@ Un buen editor de texto es esencial para escribir y gestionar tu código de mane
 
 **Editor**: Christian Kohler
 
-**Link de VS Marketplace**: [Link de Marketplace](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)
+**Link de VS Marketplace**: [Link de Marketplace](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense "Intellisense VS Code Marketplace link")
 
 ## Control de Versiones
 
@@ -136,7 +136,7 @@ Git es una herramienta de control de versiones que te permitirá gestionar el hi
 
 ### Git:
 
-1. Ve a la [página de descarga de Git](https://git-scm.com/).
+1. Ve a la [página de descarga de Git](https://git-scm.com/ "GIT web oficial link").
 2. Selecciona la versión correspondiente a tu sistema operativo y descarga el instalador.
 3. Ejecuta el instalador y sigue las instrucciones para completar la instalación.
 
@@ -146,7 +146,7 @@ GitHub es una plataforma de alojamiento de repositorios Git que te permitirá al
 
 ### Crear una Cuenta en GitHub:
 
-1. Visita [GitHub](https://github.com/).
+1. Visita [GitHub](https://github.com/ "GitHub web oficial link").
 2. Haz clic en "Sign up" (Registrarse) en la esquina superior derecha.
 3. Completa el formulario de registro con tu información personal.
 4. Verifica tu dirección de correo electrónico para activar tu cuenta.
@@ -157,7 +157,7 @@ Figma es una herramienta de diseño colaborativa basada en la web que te permiti
 
 ### Crear una Cuenta en Figma:
 
-1. Accede a [Figma](https://www.figma.com/).
+1. Accede a [Figma](https://www.figma.com/ "Figma web oficial link").
 2. Haz clic en "Sign up" (Registrarse) en la esquina superior derecha.
 3. Completa el formulario de registro con tu información personal.
 4. Verifica tu dirección de correo electrónico para activar tu cuenta.

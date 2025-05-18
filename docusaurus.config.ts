@@ -67,11 +67,13 @@ const config: Config = {
           href: "https://div.zone/#courses",
           label: "Cursos en video",
           position: "left",
+          title: "DivZone Cursos en video link",
         },
         {
           href: "https://github.com/Div-Zone",
           label: "GitHub",
           position: "right",
+          title: "DivZone GitHub link",
         },
       ],
     },
@@ -93,14 +95,17 @@ const config: Config = {
             {
               label: "Facebook",
               href: "https://www.facebook.com/divzone.official",
+              title: "DivZone Facebook link",
             },
             {
               label: "YouTube",
               href: "https://www.youtube.com/@div_zone",
+              title: "DivZone Youtube link",
             },
             {
               label: "Discord",
               href: "https://discord.gg/pNST4gkgby",
+              title: "DivZone Discord link",
             },
           ],
         },
@@ -110,6 +115,7 @@ const config: Config = {
             {
               label: "GitHub",
               href: "https://github.com/Div-Zone",
+              title: "DivZone GitHub link",
             },
           ],
         },

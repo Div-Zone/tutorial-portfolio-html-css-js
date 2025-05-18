@@ -10,7 +10,7 @@ El desarrollo backend es una parte crucial en la creación de aplicaciones web r
 
 ### PHP
 
-[PHP](https://www.php.net/) es uno de los lenguajes de programación más populares para el desarrollo web backend. Es conocido por su facilidad de uso y su amplia adopción en sistemas de gestión de contenido como WordPress.
+[PHP](https://www.php.net/ "PHP web oficial link") es uno de los lenguajes de programación más populares para el desarrollo web backend. Es conocido por su facilidad de uso y su amplia adopción en sistemas de gestión de contenido como WordPress.
 
 **Características Principales:**
 
@@ -20,7 +20,7 @@ El desarrollo backend es una parte crucial en la creación de aplicaciones web r
 
 ### Python
 
-[Python](https://www.python.org/) es un lenguaje de programación de propósito general que se ha vuelto muy popular en el desarrollo web backend gracias a su sintaxis clara y su enfoque en la legibilidad del código.
+[Python](https://www.python.org/ "Python web oficial link") es un lenguaje de programación de propósito general que se ha vuelto muy popular en el desarrollo web backend gracias a su sintaxis clara y su enfoque en la legibilidad del código.
 
 **Características Principales:**
 
@@ -30,7 +30,7 @@ El desarrollo backend es una parte crucial en la creación de aplicaciones web r
 
 ### Ruby
 
-[Ruby](https://www.ruby-lang.org/en/) es un lenguaje dinámico y de propósito general, conocido por su elegancia y simplicidad. Ruby on Rails, un popular framework web, ha impulsado su adopción en el desarrollo backend.
+[Ruby](https://www.ruby-lang.org/en/ "Ruby web oficial link") es un lenguaje dinámico y de propósito general, conocido por su elegancia y simplicidad. Ruby on Rails, un popular framework web, ha impulsado su adopción en el desarrollo backend.
 
 **Características Principales:**
 
@@ -40,13 +40,13 @@ El desarrollo backend es una parte crucial en la creación de aplicaciones web r
 
 ### Node.js
 
-[Node.js](https://nodejs.org/en/) es un entorno de ejecución para JavaScript en el servidor. Permite a los desarrolladores utilizar **JavaScript** para todo el stack de desarrollo web, lo que puede simplificar la gestión del código y aumentar la eficiencia.
+[Node.js](https://nodejs.org/en/ "Node.js web oficial link") es un entorno de ejecución para JavaScript en el servidor. Permite a los desarrolladores utilizar **JavaScript** para todo el stack de desarrollo web, lo que puede simplificar la gestión del código y aumentar la eficiencia.
 
 **Características Principales:**
 
 - **Velocidad:** Construido sobre el motor V8 de Chrome, ofrece un rendimiento rápido.
 - **Asincronía:** Manejo eficiente de operaciones de I/O no bloqueantes. Es decir, la capacidad de un sistema o lenguaje de programación para realizar operaciones de entrada/salida (Input/Output) de manera que no se bloquee o detenga el flujo de ejecución del programa mientras se espera que esas operaciones se completen
-- **Ecosistema:** [NPM](https://www.npmjs.com/), el gestor de paquetes, proporciona acceso a miles de módulos y herramientas.
+- **Ecosistema:** [NPM](https://www.npmjs.com/ "NPM web oficial link"), el gestor de paquetes, proporciona acceso a miles de módulos y herramientas.
 
 ## Bases de Datos
 
@@ -58,7 +58,7 @@ Una base de datos relacional funciona vinculando información de varias tablas m
 
 #### MySQL
 
-[MySQL](https://www.mysql.com/) es uno de los sistemas de gestión de bases de datos relacionales (RDBMS) más populares. Es conocido por su rendimiento, confiabilidad y facilidad de uso.
+[MySQL](https://www.mysql.com/ "MySQL web oficial link") es uno de los sistemas de gestión de bases de datos relacionales (RDBMS) más populares. Es conocido por su rendimiento, confiabilidad y facilidad de uso.
 
 **Características Principales:**
 
@@ -68,7 +68,7 @@ Una base de datos relacional funciona vinculando información de varias tablas m
 
 #### PostgreSQL
 
-[PostgreSQL](https://www.postgresql.org/) es un RDBMS de código abierto que se destaca por su conformidad con los estándares y su extensibilidad.
+[PostgreSQL](https://www.postgresql.org/ "PostgreSQL web oficial link") es un RDBMS de código abierto que se destaca por su conformidad con los estándares y su extensibilidad.
 
 **Características Principales:**
 
@@ -82,7 +82,7 @@ La **base de datos no relacional**, o **base de datos NoSQL**, almacena datos. S
 
 #### MongoDB
 
-[MongoDB](https://www.mongodb.com/) es una base de datos NoSQL que almacena datos en documentos JSON. Es ideal para aplicaciones que requieren alta flexibilidad en la gestión de datos.
+[MongoDB](https://www.mongodb.com/ "MongoDB web oficial link") es una base de datos NoSQL que almacena datos en documentos JSON. Es ideal para aplicaciones que requieren alta flexibilidad en la gestión de datos.
 
 **Características Principales:**
 
@@ -92,7 +92,7 @@ La **base de datos no relacional**, o **base de datos NoSQL**, almacena datos. S
 
 #### CouchDB
 
-[CouchDB](http://couchdb.apache.org/) es una base de datos NoSQL que se basa en documentos y utiliza el formato JSON para almacenar datos. Se destaca por su capacidad de replicación y sincronización.
+[CouchDB](http://couchdb.apache.org/ "CouchDB web oficial link") es una base de datos NoSQL que se basa en documentos y utiliza el formato JSON para almacenar datos. Se destaca por su capacidad de replicación y sincronización.
 
 **Características Principales:**
 
@@ -104,7 +104,7 @@ La **base de datos no relacional**, o **base de datos NoSQL**, almacena datos. S
 
 ### REST
 
-**[REST](https://restfulapi.net/) (Representational State Transfer)** es un estilo de arquitectura para diseñar servicios web. Es ampliamente utilizado debido a su simplicidad y escalabilidad.
+**[REST](https://restfulapi.net/ "REST web oficial link") (Representational State Transfer)** es un estilo de arquitectura para diseñar servicios web. Es ampliamente utilizado debido a su simplicidad y escalabilidad.
 
 **Características Principales:**
 
@@ -114,7 +114,7 @@ La **base de datos no relacional**, o **base de datos NoSQL**, almacena datos. S
 
 ### GraphQL
 
-[GraphQL](https://graphql.org/) es un lenguaje de consulta para APIs desarrollado por Facebook. Permite a los clientes solicitar exactamente los datos que necesitan, lo que puede reducir la sobrecarga de datos y mejorar el rendimiento.
+[GraphQL](https://graphql.org/ "GraphQL web oficial link") es un lenguaje de consulta para APIs desarrollado por Facebook. Permite a los clientes solicitar exactamente los datos que necesitan, lo que puede reducir la sobrecarga de datos y mejorar el rendimiento.
 
 **Características Principales:**
 

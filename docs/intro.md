@@ -31,7 +31,7 @@ Para sacar el máximo provecho de estos tutoriales, te recomendamos seguir estos
   - Además de estos tutoriales, consulta documentación oficial, foros de desarrolladores y otros recursos en línea para ampliar tu conocimiento.
 
 - **Pregunta y Colabora**:
-  - Si encuentras algún problema o tienes dudas, no dudes en buscar ayuda. Participa en comunidades en línea y colabora con otros aprendices. Te invitamos a formar parte de nuestra comunidad en [Discord](https://discord.com/invite/pNST4gkgby).
+  - Si encuentras algún problema o tienes dudas, no dudes en buscar ayuda. Participa en comunidades en línea y colabora con otros aprendices. Te invitamos a formar parte de nuestra comunidad en [Discord](https://discord.com/invite/pNST4gkgby "Unite a nuestra comunidad en Discord").
 
 ## Requisitos Previos
 

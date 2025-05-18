@@ -12,7 +12,7 @@ La automatización y la integración continua/entrega continua (CI/CD) son funda
 
 ### Jenkins
 
-[Jenkins](https://www.jenkins.io/) es una de las herramientas de CI/CD más populares. Es de código abierto y proporciona una amplia gama de plugins para integrar con diversas herramientas y servicios.
+[Jenkins](https://www.jenkins.io/ "Jenkins web oficial link") es una de las herramientas de CI/CD más populares. Es de código abierto y proporciona una amplia gama de plugins para integrar con diversas herramientas y servicios.
 
 **Características Principales:**
 
@@ -22,7 +22,7 @@ La automatización y la integración continua/entrega continua (CI/CD) son funda
 
 ### Travis CI
 
-[Travis CI](https://travis-ci.org/) es una herramienta de CI basada en la nube que es especialmente popular en proyectos de código abierto.
+[Travis CI](https://travis-ci.org/ "Travis CI web oficial link") es una herramienta de CI basada en la nube que es especialmente popular en proyectos de código abierto.
 
 **Características Principales:**
 
@@ -32,7 +32,7 @@ La automatización y la integración continua/entrega continua (CI/CD) son funda
 
 ### CircleCI
 
-[CircleCI](https://circleci.com/) es otra herramienta de CI/CD basada en la nube que se destaca por su flexibilidad y rapidez.
+[CircleCI](https://circleci.com/ "CircleCI web oficial link") es otra herramienta de CI/CD basada en la nube que se destaca por su flexibilidad y rapidez.
 
 **Características Principales:**
 
@@ -46,7 +46,7 @@ El alojamiento en la nube se ha convertido en una parte esencial del desarrollo 
 
 ### AWS
 
-[Amazon Web Services (AWS)](https://aws.amazon.com/) es uno de los proveedores de servicios en la nube más grandes y completos del mundo.
+[Amazon Web Services (AWS)](https://aws.amazon.com/ "AWS web oficial link") es uno de los proveedores de servicios en la nube más grandes y completos del mundo.
 
 **Características Principales:**
 
@@ -56,7 +56,7 @@ El alojamiento en la nube se ha convertido en una parte esencial del desarrollo 
 
 ### Azure
 
-[Microsoft Azure](https://azure.microsoft.com/) es otra plataforma de servicios en la nube ampliamente utilizada que ofrece una variedad de servicios similares a AWS.
+[Microsoft Azure](https://azure.microsoft.com/ "Microsoft Azure web oficial link") es otra plataforma de servicios en la nube ampliamente utilizada que ofrece una variedad de servicios similares a AWS.
 
 **Características Principales:**
 
@@ -66,7 +66,7 @@ El alojamiento en la nube se ha convertido en una parte esencial del desarrollo 
 
 ### Google Cloud
 
-[Google Cloud](https://cloud.google.com/) es conocido por sus capacidades de análisis y big data, además de ofrecer una gama completa de servicios en la nube.
+[Google Cloud](https://cloud.google.com/ "Google Cloud web oficial link") es conocido por sus capacidades de análisis y big data, además de ofrecer una gama completa de servicios en la nube.
 
 **Características Principales:**
 
@@ -80,7 +80,7 @@ Los entornos de desarrollo integrado (IDE) son herramientas esenciales que facil
 
 ### Visual Studio Code
 
-[Visual Studio Code](https://code.visualstudio.com/) es un editor de código fuente gratuito y de código abierto desarrollado por Microsoft.
+[Visual Studio Code](https://code.visualstudio.com/ "VS Code web oficial link") es un editor de código fuente gratuito y de código abierto desarrollado por Microsoft.
 
 **Características Principales:**
 
@@ -90,7 +90,7 @@ Los entornos de desarrollo integrado (IDE) son herramientas esenciales que facil
 
 ### Sublime Text
 
-[Sublime Text](https://www.sublimetext.com/) es un editor de texto sofisticado para código, marcado y prosa.
+[Sublime Text](https://www.sublimetext.com/ "Sublime Text web oficial link") es un editor de texto sofisticado para código, marcado y prosa.
 
 **Características Principales:**
 
@@ -100,7 +100,7 @@ Los entornos de desarrollo integrado (IDE) son herramientas esenciales que facil
 
 ### JetBrains
 
-[JetBrains](https://www.jetbrains.com/) ofrece una serie de IDEs especializados para diferentes lenguajes y plataformas, como IntelliJ IDEA para Java, PyCharm para Python, y WebStorm para JavaScript.
+[JetBrains](https://www.jetbrains.com/ "JetBrains web oficial link") ofrece una serie de IDEs especializados para diferentes lenguajes y plataformas, como IntelliJ IDEA para Java, PyCharm para Python, y WebStorm para JavaScript.
 
 **Características Principales:**
 

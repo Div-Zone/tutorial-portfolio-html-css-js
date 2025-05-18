@@ -10,7 +10,7 @@ La seguridad web es un aspecto fundamental en el desarrollo de aplicaciones en l
 
 ### HTTPS
 
-[HTTPS](https://es.wikipedia.org/wiki/HTTPS) (Hypertext Transfer Protocol Secure) es una extensión del protocolo HTTP que utiliza cifrado SSL/TLS para garantizar una conexión segura entre el navegador del usuario y el servidor web. Al implementar HTTPS, se encripta la comunicación entre el cliente y el servidor, lo que protege contra el robo de datos y la interceptación de información confidencial.
+[HTTPS](https://es.wikipedia.org/wiki/HTTPS "HTTPS información link") (Hypertext Transfer Protocol Secure) es una extensión del protocolo HTTP que utiliza cifrado SSL/TLS para garantizar una conexión segura entre el navegador del usuario y el servidor web. Al implementar HTTPS, se encripta la comunicación entre el cliente y el servidor, lo que protege contra el robo de datos y la interceptación de información confidencial.
 
 ### Manejo de Sesiones
 
@@ -26,15 +26,15 @@ El manejo adecuado de sesiones es crucial para proteger la autenticación de los
 
 ### OAuth
 
-[OAuth](https://oauth.net/) es un protocolo de autorización que permite a los usuarios otorgar acceso a terceros sin compartir sus credenciales. Es ampliamente utilizado en aplicaciones que requieren acceso a cuentas de usuario en servicios externos, como iniciar sesión con Google o Facebook.
+[OAuth](https://oauth.net/ "OAuth web oficial link") es un protocolo de autorización que permite a los usuarios otorgar acceso a terceros sin compartir sus credenciales. Es ampliamente utilizado en aplicaciones que requieren acceso a cuentas de usuario en servicios externos, como iniciar sesión con Google o Facebook.
 
 ### JWT (JSON Web Tokens)
 
-[JWT](https://jwt.io/) es un estándar abierto que define un formato compacto y autenticado para la transmisión segura de información entre partes como un objeto JSON. Los JWT se utilizan comúnmente para la autenticación y la transmisión segura de datos entre el cliente y el servidor.
+[JWT](https://jwt.io/ "JWT web oficial link") es un estándar abierto que define un formato compacto y autenticado para la transmisión segura de información entre partes como un objeto JSON. Los JWT se utilizan comúnmente para la autenticación y la transmisión segura de datos entre el cliente y el servidor.
 
 ### SSO (Single Sign-On)
 
-[SSO](https://es.wikipedia.org/wiki/Single_sign-on) es una solución de autenticación que permite a los usuarios acceder a múltiples aplicaciones o servicios con una sola credencial de inicio de sesión. Esto simplifica la experiencia del usuario y reduce la carga de gestión de contraseñas para los usuarios y los equipos de soporte.
+[SSO](https://es.wikipedia.org/wiki/Single_sign-on "SSO información link") es una solución de autenticación que permite a los usuarios acceder a múltiples aplicaciones o servicios con una sola credencial de inicio de sesión. Esto simplifica la experiencia del usuario y reduce la carga de gestión de contraseñas para los usuarios y los equipos de soporte.
 
 ## Conclusiones
 

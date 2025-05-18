@@ -10,7 +10,7 @@ En el desarrollo web actual, contar con las herramientas y tecnologías adecuada
 
 ### React
 
-[React](https://reactjs.org/) es una biblioteca de JavaScript para construir interfaces de usuario. Fue desarrollada por Facebook y permite la creación de componentes reutilizables. Su enfoque en la creación de una "interfaz de usuario declarativa" facilita la actualización y el mantenimiento de la UI.
+[React](https://reactjs.org/ "React web oficial link") es una biblioteca de JavaScript para construir interfaces de usuario. Fue desarrollada por Facebook y permite la creación de componentes reutilizables. Su enfoque en la creación de una "interfaz de usuario declarativa" facilita la actualización y el mantenimiento de la UI.
 
 **Características Principales:**
 
@@ -20,7 +20,7 @@ En el desarrollo web actual, contar con las herramientas y tecnologías adecuada
 
 ### Angular
 
-[Angular](https://angular.io/) es un framework de desarrollo web basado en TypeScript desarrollado por Google. Angular es ideal para construir aplicaciones web de una sola página (SPA).
+[Angular](https://angular.io/ "Angular web oficial link") es un framework de desarrollo web basado en TypeScript desarrollado por Google. Angular es ideal para construir aplicaciones web de una sola página (SPA).
 
 **Características Principales:**
 
@@ -30,7 +30,7 @@ En el desarrollo web actual, contar con las herramientas y tecnologías adecuada
 
 ### Vue.js
 
-[Vue.js](https://vuejs.org/) es un framework progresivo para la construcción de interfaces de usuario. Vue es conocido por su facilidad de integración y su bajo umbral de entrada.
+[Vue.js](https://vuejs.org/ "Vue web oficial link") es un framework progresivo para la construcción de interfaces de usuario. Vue es conocido por su facilidad de integración y su bajo umbral de entrada.
 
 **Características Principales:**
 
@@ -42,7 +42,7 @@ En el desarrollo web actual, contar con las herramientas y tecnologías adecuada
 
 ### WordPress
 
-[WordPress](https://wordpress.org/) es el CMS más popular del mundo, utilizado por más del 40% de los sitios web. Es altamente personalizable con temas y plugins.
+[WordPress](https://wordpress.org/ "Wordpress web oficial link") es el CMS más popular del mundo, utilizado por más del 40% de los sitios web. Es altamente personalizable con temas y plugins.
 
 **Características Principales:**
 
@@ -52,7 +52,7 @@ En el desarrollo web actual, contar con las herramientas y tecnologías adecuada
 
 ### Joomla
 
-[Joomla](https://www.joomla.org/) es un CMS de código abierto que permite la creación de sitios web y aplicaciones online potentes. Es conocido por su flexibilidad y capacidad de extensión.
+[Joomla](https://www.joomla.org/ "Joomla web oficial link") es un CMS de código abierto que permite la creación de sitios web y aplicaciones online potentes. Es conocido por su flexibilidad y capacidad de extensión.
 
 **Características Principales:**
 
@@ -62,7 +62,7 @@ En el desarrollo web actual, contar con las herramientas y tecnologías adecuada
 
 ### Drupal
 
-[Drupal](https://www.drupal.org/) es un CMS robusto y flexible, adecuado para sitios web complejos y grandes. Es conocido por su seguridad y escalabilidad.
+[Drupal](https://www.drupal.org/ "Drupal web oficial link") es un CMS robusto y flexible, adecuado para sitios web complejos y grandes. Es conocido por su seguridad y escalabilidad.
 
 **Características Principales:**
 
@@ -74,7 +74,7 @@ En el desarrollo web actual, contar con las herramientas y tecnologías adecuada
 
 ### Sass
 
-[Sass](https://sass-lang.com/) es un preprocesador CSS que añade características avanzadas como variables, anidamiento, y mixins. Ayuda a mantener el CSS organizado y DRY (Don't Repeat Yourself).
+[Sass](https://sass-lang.com/ "SASS web oficial link") es un preprocesador CSS que añade características avanzadas como variables, anidamiento, y mixins. Ayuda a mantener el CSS organizado y DRY (Don't Repeat Yourself).
 
 **Características Principales:**
 
@@ -84,7 +84,7 @@ En el desarrollo web actual, contar con las herramientas y tecnologías adecuada
 
 ### Less
 
-[Less](http://lesscss.org/) es otro preprocesador CSS que facilita la escritura de CSS de manera más eficiente y mantenible. Es similar a Sass, pero con algunas diferencias en la sintaxis y funcionalidad.
+[Less](http://lesscss.org/ "LESS web oficial link") es otro preprocesador CSS que facilita la escritura de CSS de manera más eficiente y mantenible. Es similar a Sass, pero con algunas diferencias en la sintaxis y funcionalidad.
 
 **Características Principales:**
 
@@ -96,7 +96,7 @@ En el desarrollo web actual, contar con las herramientas y tecnologías adecuada
 
 ### Git
 
-[Git](https://git-scm.com/) es un sistema de control de versiones distribuido que permite a los desarrolladores rastrear cambios en el código, colaborar con otros y gestionar proyectos de manera eficiente.
+[Git](https://git-scm.com/ "GIT web oficial link") es un sistema de control de versiones distribuido que permite a los desarrolladores rastrear cambios en el código, colaborar con otros y gestionar proyectos de manera eficiente.
 
 **Características Principales:**
 
@@ -106,7 +106,7 @@ En el desarrollo web actual, contar con las herramientas y tecnologías adecuada
 
 ### Plataformas de Repositorios: GitHub
 
-[GitHub](https://github.com/) es una plataforma de alojamiento de repositorios Git que facilita la colaboración y el manejo de proyectos. Ofrece características como pull requests, issues, y GitHub Actions para integración continua.
+[GitHub](https://github.com/ "GitHub web oficial link") es una plataforma de alojamiento de repositorios Git que facilita la colaboración y el manejo de proyectos. Ofrece características como pull requests, issues, y GitHub Actions para integración continua.
 
 **Características Principales:**
 

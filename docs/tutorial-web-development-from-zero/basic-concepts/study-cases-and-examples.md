@@ -12,7 +12,7 @@ En el mundo del desarrollo web, estudiar casos reales y ejemplos prácticos nos 
 
 ![Amazon](./img/amazon.jpg "Amazon")
 
-[Amazon](https://www.amazon.com/) ha transformado el comercio electrónico desde su lanzamiento en 1995. Inicialmente, una librería en línea, Amazon ha crecido hasta convertirse en una de las plataformas de comercio electrónico más grandes del mundo, ofreciendo una amplia gama de productos y servicios.
+[Amazon](https://www.amazon.com/ "Amazon web oficial link") ha transformado el comercio electrónico desde su lanzamiento en 1995. Inicialmente, una librería en línea, Amazon ha crecido hasta convertirse en una de las plataformas de comercio electrónico más grandes del mundo, ofreciendo una amplia gama de productos y servicios.
 
 **Impacto:**
 
@@ -23,7 +23,7 @@ En el mundo del desarrollo web, estudiar casos reales y ejemplos prácticos nos 
 
 ![Wikipedia](./img/wiki.jpg "Wikipedia")
 
-[Wikipedia](https://www.wikipedia.org/) es una enciclopedia en línea gratuita y de contenido abierto que se ha convertido en una fuente de información globalmente reconocida desde su creación en 2001.
+[Wikipedia](https://www.wikipedia.org/ "Wikipedia web oficial link") es una enciclopedia en línea gratuita y de contenido abierto que se ha convertido en una fuente de información globalmente reconocida desde su creación en 2001.
 
 **Impacto:**
 
@@ -34,7 +34,7 @@ En el mundo del desarrollo web, estudiar casos reales y ejemplos prácticos nos 
 
 ![YouTube](./img/youtube.jpg "YouTube")
 
-[YouTube](https://www.youtube.com/) ha cambiado la forma en que consumimos y compartimos contenido multimedia desde su lanzamiento en 2005.
+[YouTube](https://www.youtube.com/ "YouTube web oficial link") ha cambiado la forma en que consumimos y compartimos contenido multimedia desde su lanzamiento en 2005.
 
 **Impacto:**
 
