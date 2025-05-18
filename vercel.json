@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/docs/tutorial-web-development-from-zero/css-introduction/introduction-to-styling-web-pages-with-css",
+      "destination": "/docs/css-introduction/introduction-to-styling-web-pages-with-css",
+      "permanent": true
+    }
+  ]
+}
