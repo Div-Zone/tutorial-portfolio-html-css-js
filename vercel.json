@@ -189,6 +189,106 @@
       "source": "/docs/tutorial-web-development-from-zero/css-advanced/measurement-and-positioning-units",
       "destination": "/docs/css-advanced/measurement-and-positioning-units",
       "permanent": true
+    },
+    {
+      "source": "/docs/tutorial-web-development-from-zero/html-basics/html-exercises/exercise-1",
+      "destination": "/docs/html-exercises/exercise-1",
+      "permanent": true
+    },
+    {
+      "source": "/docs/tutorial-web-development-from-zero/html-basics/html-exercises/exercise-2",
+      "destination": "/docs/html-exercises/exercise-2",
+      "permanent": true
+    },
+    {
+      "source": "/docs/tutorial-web-development-from-zero/html-basics/html-exercises/exercise-3",
+      "destination": "/docs/html-exercises/exercise-3",
+      "permanent": true
+    },
+    {
+      "source": "/docs/tutorial-web-development-from-zero/html-basics/html-exercises/exercise-4",
+      "destination": "/docs/html-exercises/exercise-4",
+      "permanent": true
+    },
+    {
+      "source": "/docs/tutorial-web-development-from-zero/html-basics/html-exercises/exercise-5",
+      "destination": "/docs/html-exercises/exercise-5",
+      "permanent": true
+    },
+    {
+      "source": "/docs/tutorial-web-development-from-zero/html-basics/html-exercises/exercise-6",
+      "destination": "/docs/html-exercises/exercise-6",
+      "permanent": true
+    },
+    {
+      "source": "/docs/tutorial-web-development-from-zero/html-basics/html-exercises/exercise-7",
+      "destination": "/docs/html-exercises/exercise-7",
+      "permanent": true
+    },
+    {
+      "source": "/docs/tutorial-web-development-from-zero/html-basics/html-exercises/exercise-8",
+      "destination": "/docs/html-exercises/exercise-8",
+      "permanent": true
+    },
+    {
+      "source": "/docs/tutorial-web-development-from-zero/html-basics/html-exercises/exercise-9",
+      "destination": "/docs/html-exercises/exercise-9",
+      "permanent": true
+    },
+    {
+      "source": "/docs/tutorial-web-development-from-zero/html-basics/html-exercises/exercise-10",
+      "destination": "/docs/html-exercises/exercise-10",
+      "permanent": true
+    },
+    {
+      "source": "/docs/tutorial-web-development-from-zero/html-basics/html-exercises/exercise-11",
+      "destination": "/docs/html-exercises/exercise-11",
+      "permanent": true
+    },
+    {
+      "source": "/docs/tutorial-web-development-from-zero/html-basics/html-exercises/exercise-12",
+      "destination": "/docs/html-exercises/exercise-12",
+      "permanent": true
+    },
+    {
+      "source": "/docs/tutorial-web-development-from-zero/html-basics/html-exercises/exercise-13",
+      "destination": "/docs/html-exercises/exercise-13",
+      "permanent": true
+    },
+    {
+      "source": "/docs/tutorial-web-development-from-zero/html-basics/html-exercises/exercise-14",
+      "destination": "/docs/html-exercises/exercise-14",
+      "permanent": true
+    },
+    {
+      "source": "/docs/tutorial-web-development-from-zero/html-basics/html-exercises/exercise-15",
+      "destination": "/docs/html-exercises/exercise-15",
+      "permanent": true
+    },
+    {
+      "source": "/docs/tutorial-web-development-from-zero/html-basics/html-exercises/exercise-16",
+      "destination": "/docs/html-exercises/exercise-16",
+      "permanent": true
+    },
+    {
+      "source": "/docs/tutorial-web-development-from-zero/html-basics/html-exercises/exercise-17",
+      "destination": "/docs/html-exercises/exercise-17",
+      "permanent": true
+    },
+    {
+      "source": "/docs/tutorial-web-development-from-zero/html-basics/html-exercises/exercise-18",
+      "destination": "/docs/html-exercises/exercise-18",
+      "permanent": true
+    },
+    {
+      "source": "/docs/tutorial-web-development-from-zero/html-basics/html-exercises/exercise-19",
+      "destination": "/docs/html-exercises/exercise-19",
+      "permanent": true
+    },
+    {
+      "source": "/docs/tutorial-web-development-from-zero/html-basics/html-exercises/exercise-20",
+      "destination": "/docs/html-exercises/exercise-20",
+      "permanent": true
     }
   ]
 }
