@@ -103,3 +103,7 @@ article ul {
   padding-left: 20px;
   margin-bottom: 16px;
 }
+
+a {
+  text-decoration: underline;
+}
