@@ -3,11 +3,16 @@ sidebar_position: 1
 ---
 
 import CodePenLite from "@site/src/components/code-pen-lite/CodePenLite";
+import Link from "@docusaurus/Link";
 
 # Estructura y Estilización de Páginas Web con CSS
 
-CSS (Cascading Style Sheets) es un lenguaje utilizado para **estilizar** la presentación de un documento escrito en HTML o XML. Mientras que HTML proporciona la estructura y el contenido de la página, CSS se encarga de la apariencia visual, permitiendo a los desarrolladores web crear sitios atractivos y con una buena experiencia de usuario.
-En este artículo, exploraremos los conceptos básicos de CSS, sus ventajas y algunas técnicas fundamentales para estilizar páginas web.
+**CSS (Cascading Style Sheets)** es un lenguaje utilizado para **estilizar** la presentación de un documento escrito en **HTML** o **XML**. Mientras que **HTML** proporciona la estructura y el contenido de la página, **CSS** se encarga de la apariencia visual, permitiendo a los desarrolladores web crear sitios atractivos y con una buena experiencia de usuario.
+En este artículo, exploraremos los **conceptos básicos de CSS**, sus ventajas y algunas técnicas fundamentales para estilizar páginas web.
+
+:::tip
+Para comprender mejor esta sección, te recomendamos ver primero los artículos de <Link to="/docs/category/fundamentos-de-html" title='Sección Fundamentos de HTML link'>Fundamentos de HTML</Link>.
+:::
 
 ## ¿Qué es CSS?
 
@@ -62,7 +67,7 @@ CSS es esencial porque:
 
 ## Ejemplo Práctico
 
-Supongamos que tienes dos archivos, un **index.html** con la **estructura HTML** necesaria y **styles.css** con la **estilización CSS** como se muestra en el siguiente ejemplo:
+Supongamos que tienes dos archivos, un **index.html** con la **estructura HTML** necesaria y **styles.css** con la **estilización CSS** como se muestra a continuación. En el ejemplo omitiremos la línea `<!DOCTYPE html>` y las etiquetas principales `<html> </html>`. Para ver más sobre la estructura completa de un documento HTML ingresa a <Link to="/docs/html-basics/basic-structure" title='Estructura básica de un documento HTML link'>Estructura básica de un documento HTML</Link>.
 
 <CodePenLite
   slugHash="LEVPVrE"
@@ -70,6 +75,8 @@ Supongamos que tienes dos archivos, un **index.html** con la **estructura HTML**
 />
 
 **En este ejemplo:**
+
+- Se crean dos documentos en un mismo directorio, un **index.html** y un **styles.css**. También se importa el archivo **styles.css** en el `<head>` del **documento HTML** con el codigo `<link rel="stylesheet" href="styles.css" />`.
 
 - Se establece un color de fondo y una fuente para todo el `body`.
 
