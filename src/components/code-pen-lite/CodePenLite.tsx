@@ -2,16 +2,16 @@ import React, { useEffect, useRef, useState } from "react";
 import "./CodePenLite.css";
 
 interface CodePenLiteProps {
-  slugHash?: string;
+  slugHash: string;
   user?: string;
-  title?: string;
+  title: string;
   height?: number;
 }
 
 export default function CodePenLite({
-  slugHash = "LEVPVrE",
+  slugHash,
   user = "gabrielcodepen",
-  title = "Code snnipet",
+  title,
   height = 400,
 }: CodePenLiteProps) {
   const containerRef = useRef(null);
