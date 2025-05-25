@@ -1,0 +1,43 @@
+---
+sidebar_position: 3
+---
+
+# Ejercicio 3
+
+Crea un diseño de página con tres columnas: una barra lateral izquierda, un contenido principal y una barra lateral derecha.
+
+```html title="HTML"
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Ejercicio 2</title>
+    <style>
+      /* Escribe tu CSS aquí */
+      .container {
+        display: flex;
+      }
+
+      .sidebar-left,
+      .sidebar-right {
+        width: 20%;
+        background-color: #f1f1f1;
+        padding: 20px;
+      }
+
+      .main {
+        width: 60%;
+        background-color: #e2e2e2;
+        padding: 20px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <div class="sidebar-left">Barra lateral izquierda</div>
+      <div class="main">Contenido principal</div>
+      <div class="sidebar-right">Barra lateral derecha</div>
+    </div>
+  </body>
+</html>
+```
