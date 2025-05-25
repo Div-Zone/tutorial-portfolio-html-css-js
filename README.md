@@ -28,3 +28,5 @@ Este proyecto contiene el código fuente de mi tutorial de desarrollo web que pu
 - Fuentes: "DM Sans" y "Poppins" free google font
 - Iconos de [react-icons.github.io](https://react-icons.github.io/react-icons/)
 - Diseño de PavanMG - [Figma](https://www.figma.com/)
+
+To deploy on vercel after push to develop: `vercel --prod`
